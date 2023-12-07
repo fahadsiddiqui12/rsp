@@ -8596,24 +8596,24 @@ section.mainbanner-sec.combo_package_banner .lbn-btns a:nth-child(2){
     margin-bottom:50px
 }
 .advance-combo-package .ad-head h2::before{
-    content:"";
+    /*content:"";
     position:absolute;
     width:200px;
     height:60px;
     border-top:10px solid #ee3364;
     border-left:10px solid #ee3364;
     left:0;
-    top:17px
+    top:17px*/
 }
 .advance-combo-package .ad-head h2::after{
-    content:"";
+    /*content:"";
     position:absolute;
     width:200px;
     height:60px;
     border-top:10px solid #ee3364;
     border-right:10px solid #ee3364;
     right:0;
-    top:17px
+    top:17px*/
 }
 .ad-combo-item h3{
     font-size:22px;
@@ -9521,8 +9521,7 @@ section.serious-sec.combo-cta{
 /* header Sticky file css starts here */
 
 
- header.style1 .logo a>img:nth-child(2) {display: block!important;}
-                    header.style1 .logo a>img:nth-child(1) {display: none;}
+ 
                     .home-banner {padding-top: 190px;
                       background: #ffeef2;
                       }
@@ -9620,9 +9619,7 @@ section.serious-sec.combo-cta{
 
                     .srv-box1.style2:hover span {opacity: 1;}
                     .home-banner h1 b {display: inline-block;padding: 20px;}
-                              .main-nav ul li a {
-                        color: #000!important;
-                    }
+                      
                       .icons-sec .servr-brnd {
                         display: block !important;
                        background: transparent;

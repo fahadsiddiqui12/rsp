@@ -1,0 +1,12 @@
+.main-nav ul li a {
+                        color: #000!important;
+                    }
+header.style1 .logo a>img:nth-child(2) {display: block!important;}
+
+header.style1 .logo a>img:nth-child(1) {display: none;}
+
+@media (max-width: 991px){
+    header.style1 .logo a>img:nth-child(2) {
+        display: none!important;
+    }
+}

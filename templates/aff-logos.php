@@ -1,3 +1,4 @@
+<?php include ($_SERVER['DOCUMENT_ROOT']."/includes/variables.php");?>
 <style>
     .social_icons a {
         height: 25px;
@@ -164,32 +165,32 @@
                                 <div class="aff_slider ">
                                     <div class="item">
                                         <div>
-                                            <img src="assets/images/blank-img.jpg" class="lazy"
-                                                data-src="assets/images/logo1.svg" alt="patner-logo">
+                                            <img src="<?php echo $siteurl; ?>assets/images/blank-img.jpg" class="lazy"
+                                                data-src="<?php echo $siteurl; ?>assets/images/logo1.svg" alt="patner-logo">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div>
-                                            <img src="assets/images/blank-img.jpg" class="lazy"
-                                                data-src="assets/images/logo-2.png" alt="patner-logo">
+                                            <img src="<?php echo $siteurl; ?>assets/images/blank-img.jpg" class="lazy"
+                                                data-src="<?php echo $siteurl; ?>assets/images/logo-2.png" alt="patner-logo">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div>
-                                            <img src="assets/images/blank-img.jpg" class="lazy"
-                                                data-src="assets/images/logo-3.png" alt="patner-logo">
+                                            <img src="<?php echo $siteurl; ?>assets/images/blank-img.jpg" class="lazy"
+                                                data-src="<?php echo $siteurl; ?>assets/images/logo-3.png" alt="patner-logo">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div>
-                                            <img src="assets/images/blank-img.jpg" class="lazy"
-                                                data-src="assets/images/logo4.svg" alt="patner-logo">
+                                            <img src="<?php echo $siteurl; ?>assets/images/blank-img.jpg" class="lazy"
+                                                data-src="<?php echo $siteurl; ?>assets/images/logo4.svg" alt="patner-logo">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div>
-                                            <img src="assets/images/blank-img.jpg" class="lazy"
-                                                data-src="assets/images/logo-5.png" alt="patner-logo">
+                                            <img src="<?php echo $siteurl; ?>assets/images/blank-img.jpg" class="lazy"
+                                                data-src="<?php echo $siteurl; ?>assets/images/logo-5.png" alt="patner-logo">
                                         </div>
                                     </div>
                                 </div>

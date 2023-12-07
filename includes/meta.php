@@ -1,11 +1,10 @@
 <?php
-$siteurl = "http://mushidrsp.test/";
+//$siteurl = "http://mushidrsp.test/";
+
 ?>
+<?php $get_var = include ($_SERVER['DOCUMENT_ROOT']."/includes/variables.php");?>
 <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <style>
-       
-    </style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">    
     <meta charset="UTF-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

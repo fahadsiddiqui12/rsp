@@ -1,12 +1,13 @@
+<?php include ($_SERVER['DOCUMENT_ROOT']."/includes/variables.php");?>
 <section class="recognition-sec">
             <div class="w-100 pt-130 pb-50 position-relative">
-            <div id="particles2" class="particles-js top-left" data-saturation="300" data-size="40" data-count="20" data-speed="2" data-hide="770" data-image="assets"></div>
+            <div id="particles2" class="particles-js top-left" data-saturation="300" data-size="40" data-count="20" data-speed="2" data-hide="770" data-image="<?php echo $siteurl; ?>assets"></div>
             <div class="container">
             <div class="about-wrap2 w-100">
             <div class="row">
             <div class="col-md-6 col-sm-12 col-lg-6">
             <div class="about-mckp2 w-100 position-relative">
-            <img class="img-fluid lazy" data-src="assets/images/develop2.webp" alt="About Mockup 2">
+            <img class="img-fluid lazy" data-src="<?php echo $siteurl; ?>assets/images/develop2.webp" alt="About Mockup 2">
             </div>
             </div>
             <div class="col-md-6 col-sm-12 col-lg-6">

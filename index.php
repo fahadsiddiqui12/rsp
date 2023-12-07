@@ -3,6 +3,8 @@
 
 <head>
     <?php include ($_SERVER['DOCUMENT_ROOT']."/includes/meta.php");?>
+    <?php // include ($_SERVER['DOCUMENT_ROOT']."/includes/dark-color.php");?>
+   <link rel="stylesheet" href="<?php echo $siteurl;?>assets/css/style-dark.css" >
 </head>
 
 <body>
