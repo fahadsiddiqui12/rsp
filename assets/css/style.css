@@ -10161,3 +10161,394 @@ section.serious-sec.combo-cta{
 
 
 /* 3 logo design css end here */
+
+
+
+/* Website design css starts here */
+
+.lpbann-two {
+            background-image: url(../images/new-banners/website/banner.jpg);
+            padding-bottom: 0px;
+        }
+        .trust-ban {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    margin-bottom: 30px;
+    z-index: 1;
+    position: relative;
+    margin-top: 70px;
+}
+.trust-ban p {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+  .trust-mn p{
+  font-size: 16px;
+  }
+.trust-ban ul {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 0px;
+}
+.lpbann-three .an-custom-container {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.lpbann-two .lbn-btns a+a {
+    color: white;
+}
+.lpbann-two .an-custom-container {
+    margin-bottom: 0px;
+}
+.banner-animation {
+    position: absolute;
+    bottom: -290px;
+    right: -210px;
+    width: 1400px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.banner-animation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    z-index: -1;
+    transform: rotate(-45deg);
+}
+
+.banner-animation .item {
+    height: auto;
+}
+
+.banner-animation .item:nth-child(1) {
+    margin-left: 205px;
+}
+
+.banner-animation .item:nth-child(2) {
+    margin-right: 250px;
+}
+
+.mainbanner-sec {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.banner-animation .item:last-child {
+    margin-left: auto;
+    margin-right: 240px;
+}
+
+.mainbanner-sec.website_after_style::before {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 180px;
+    left: 0px;
+    background: linear-gradient(359deg, #5d2787 10%, transparent 79%);
+}
+.banner-animation .item {
+    position: relative;
+}
+
+.banner-animation .item .banner-img-change {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    transition: 0.5s;
+    opacity: 0;
+}
+
+.banner-animation .item .banner-img-change.active{
+    opacity: 1;
+}
+  .seris-mn h5 {
+    display: inline-block;
+}
+  @media (max-width: 1445px){
+  .lbn-btns a {
+    min-width: 220px;
+}
+  }
+@media (max-width: 991.98px){
+    
+  .trust-ban {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 10px;
+}
+  
+  .trusted-sec {
+    padding: 50px 0px;
+}
+  .banner-animation {
+    display: none;
+}
+
+.lpbann-two {background: #a382dd;}
+}
+
+@media (max-width: 767px)
+.trust-ban {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}  
+  
+  
+ .Website-ntabs {
+    padding: 100px 0px 50px;
+}
+.inner-webs .nav-tabs {
+    width: 100%;
+    gap: 0px 8px;
+    border: none;
+    text-align: center;
+}
+
+.inner-webs .nav-tabs .nav-item .nav-link {
+    color: #0c0e1b;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Muli';
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 250);
+    padding: 10px  50px;
+    line-height: normal;
+}
+
+.inner-webs .nav-tabs .nav-item .nav-link.active {
+    color: white;
+    background-color: rgb(237, 51, 99);
+    box-shadow: 0px 25px 25px 0px rgba(237, 51, 99, 0.25) !important;
+}
+.mnwebn-tabs h4 {
+    font-size: 36px;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.mnwebn-tabs p {
+    font-size: 18px;
+    color: #0c0e1b;
+    font-weight: 500;
+    line-height: 36px;
+    padding-bottom: 30px;
+}
+
+.inner-webs .tab-pane .row {
+    padding-top: 50px;
+    align-items: center;
+}
+@media only screen and (max-width: 1366px) {
+    .mnwebn-tabs p {
+    font-size: 16px;
+    line-height: 32px;
+    padding-bottom: 20px;
+}
+.mnwebn-tabs h4 {
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+
+
+}
+@media only screen and (max-width: 1199px) {
+    .inner-webs .nav-tabs .nav-item .nav-link {
+    font-size: 15px;
+    padding: 10px 30px;
+}
+
+}
+@media only screen and (max-width: 991px) {
+    .inner-webs .nav-tabs {
+    gap: 6px 12px;
+    justify-content: center !important;
+}
+.Website-ntabs {
+    padding: 50px 0px;
+}
+.inner-webs .tab-pane .row {
+    padding-top: 20px;
+
+}
+
+}
+@media only screen and (max-width: 767px) {
+
+    .mnwebn-tabs p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 10px;
+}
+.mnwebn-tabs h4 {
+    font-size: 26px;
+    padding-bottom: 10px;
+}
+.inner-webs .nav-tabs .nav-item .nav-link {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+}
+@media only screen and (max-width: 575px) {
+    .inner-webs .nav-tabs {
+    gap: 6px 10px;
+    flex-direction: column;
+}
+.inner-webs  .thm-btn.mini-btn {
+
+    width: 100%;
+    text-align: center;
+}
+.mnwebn-tabs h4 {
+    font-size: 24px;
+    padding-bottom: 0px;
+}
+  .inner-webs .nav-tabs .nav-item .nav-link br {
+    display: none;
+}
+}
+/* Website design css ends here */
+
+/* website landing page css starts here */
+
+.apparel-banner.landing-website-bannner
+{
+    background: url(../images/landing/banner.jpg) no-repeat !important;
+}
+
+.buissness-card-banner img {
+
+            /* visibility: hidden;
+            transition: 0.5s; */
+            /* position: relative;
+            right: 10%;
+            width: 800px;
+            animation: moving-fish 15s; */
+
+        }
+
+        /* .buissness-card-banner img.active {
+            animation: cards1 1s linear;
+            animation-fill-mode: forwards;
+            display: block !important;
+            visibility: visible;
+        } */
+        .offer-inner img {
+            animation: scrollDownAnimation .5s ease infinite alternate;
+            -webkit-animation: scrollDownAnimation .5s ease infinite alternate;
+        }
+
+        @keyframes moving-fish {
+            0% {
+                right: -30%;
+            }
+
+            100% {
+                right: 10%;
+            }
+        }
+
+        @-moz-keyframes moving-fish {
+            0% {
+                right: -30%;
+            }
+
+            100% {
+                right: 10%;
+            }
+        }
+
+        @-webkit-keyframes moving-fish {
+            0% {
+                right: -30%;
+            }
+
+            100% {
+                right: 10%;
+            }
+        }
+
+        @keyframes scrollDownAnimation {
+            from {
+                transform: translateY(0);
+            }
+
+            to {
+                transform: translateY(-10px);
+            }
+        }
+
+        @-moz-keyframes scrollDownAnimation {
+            from {
+                transform: translateY(0);
+            }
+
+            to {
+                transform: translateY(-10px);
+            }
+        }
+
+        @-webkit-keyframes scrollDownAnimation {
+            from {
+                transform: translateY(0);
+            }
+
+            to {
+                transform: translateY(-10px);
+            }
+        }
+
+.buissness-card-banner.landing-moving-img img{
+    display: block !important;
+    visibility: visible !important;
+    transition: 0.5s !important;
+}
+
+.website-landing-page.cta-apparels
+{
+    background: url(../images/landing/cta-bg.jpg) no-repeat !important;
+    background-size: cover !important;
+    padding: 5.56rem 0rem !important;
+    background-position: top !important;
+}
+
+/* website landing page ends starts here */
+
+
+/* website ecommerce page starts starts here */
+
+.apparel-banner.ecommerce-page-banner {
+    background: url(../images/ecommerce-web/banner.jpg) no-repeat !important;
+    padding-top: 180px !important;
+    background-size: cover !important;
+}
+.ecommerce-page-banner .buissness-card-banner img{
+    display: block !important;
+    visibility: visible !important;
+    transition: 0.5s !important;
+}
+.cta-apparels.ecommerce-page-apparels {
+    background: url(../images/ecommerce-web/cta-bg.png) no-repeat !important;
+    background-size: cover !important;
+    padding: 5.56rem 0rem !important;
+    background-position: top !important;
+}
+
+
+/* website ecommerce page ends starts here */

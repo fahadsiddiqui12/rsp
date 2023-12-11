@@ -253,7 +253,6 @@ $(function() {
             }(0));
         });</script>
 
-<style>
             
 </body>
 
