@@ -149,10 +149,166 @@
 
 
 
-
+        
         
 
         <?php include ($_SERVER['DOCUMENT_ROOT']."/templates/video-review.php");?>
+
+
+        <section class="faq-section">
+            <div class="container">
+                <div class="main-head text-center reverse">
+                    <h2>
+                        Let’s Erase the Doubts
+                    </h2>
+                </div>
+                <div id="accordion">
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link" data-toggle="collapse" data-target="#faq1"
+                                            aria-expanded="true">Q: Why should I choose a custom mascot logo over a generic one?
+
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq1" class="collapse show" data-parent="#accordion">
+                                    <div class="card-body">A custom mascot logo symbolizes your brand's unique identity. Unlike generic logos, which lack distinctiveness, a custom-made mascot logo has the power to leave a good impression on your audience, fostering a special emotional connection.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq2"
+                                            aria-expanded="true">Can I provide input during the design process?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq2" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">Yes, we welcome your feedback at every stage of the design process. Together, we'll weave a design representing your brand's story.
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq3"
+                                            aria-expanded="true">What file format do I get?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq3" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">
+                                        Final files are provided in the following formats: <br>.jpg / .png / .ai /.psd /
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq4"
+                                            aria-expanded="true">Will my work be on your site?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq4" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">Yes, we have the right to display the work designed by us on our
+                                        site. However, the copyrights of the same will remain with the client.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq5"
+                                            aria-expanded="true">Can you also print my business card?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq5" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">Yes! We can provide you with a designed and printed stack of
+                                        business cards.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                  
+                  <!--new-->
+                  
+                       <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq50"
+                                            aria-expanded="true">Why should I choose a custom mascot logo over a generic one?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq50" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">A custom mascot logo symbolizes your brand's unique identity. Unlike generic logos, which lack distinctiveness, a custom-made mascot logo has the power to leave a good impression on your audience, fostering a special emotional connection.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#faq51"
+                                            aria-expanded="true">Can I provide input during the design process?
+                                        </button>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div id="faq51" class="collapse " data-parent="#accordion">
+                                    <div class="card-body">Yes, we welcome your feedback at every stage of the design process. Together, we'll weave a design representing your brand's story.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
   
         
         <?php include ($_SERVER['DOCUMENT_ROOT']."/templates/recognition-sec.php");?> 

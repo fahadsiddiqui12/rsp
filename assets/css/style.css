@@ -10109,3 +10109,55 @@ section.serious-sec.combo-cta{
 
 
 /* header Sticky file css ends here */
+
+/* 3 logo design css starts here */
+
+.apparel-banner {
+    background: url(../assets/images/3d-design/banner.jpg) no-repeat !important;
+    padding-top: 180px !important;
+    background-size: cover !important;
+}
+
+.apparel-banner p {
+    font-size: 20px;
+}
+
+.apparel-banner.three-d-logo-design {
+    background: url(../images/3d-design/banner.jpg) no-repeat !important;
+}
+
+.three-d-logo-design p {
+    font-size: 20px;
+}
+
+.three-d-logo-design .trust-ban {
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.three-d-logo-design .trust-ban p {
+    font-size: 14px !important;
+}
+
+.apparel-banner.logo-illustration-banner {
+    background: url(../assets/images/logo-illustrate/banner.jpg) no-repeat !important;
+}
+
+.buissness-card-banner img {
+    display: none !important;
+    visibility: hidden;
+    transition: 0.5s;
+}
+
+.buissness-card-banner img.active {
+    animation: cards1 1s linear;
+    animation-fill-mode: forwards;
+    display: block !important;
+    visibility: visible;
+}
+
+
+/* 3 logo design css end here */
