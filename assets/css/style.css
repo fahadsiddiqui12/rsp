@@ -10910,3 +10910,393 @@ font-size: 30px;
 }
 
 /* brand merchandise page ends here */
+
+
+/* brand marketing-collateral page starts here */
+
+ .lpbann-four.mark-banner {
+    background: url(../images/collateral/banner3860.jpg) no-repeat !important;
+    padding-top: 200px !important;
+    background-size: cover !important;
+}
+
+.collab-handle.remove_bg_shade,.collab-handle.remove_bg_shade:hover {
+    background: transparent;
+    gap: 20px;
+    padding: 0px !important;
+}
+
+.collab-handle.remove_bg_shade:hover h4,.collab-handle.remove_bg_shade:hover p {
+    color: #000;
+}
+.mark_colla .doorstep-mn h4 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.mark_colla .doorstep-mn h2 {
+    font-size: 3rem;
+    color: #fff;
+}
+
+.mark_colla .doorstep-mn span {
+    font-size: 48px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Montserrat';
+}
+
+.cta-collat .doorstep-mn .lbn-btns a:nth-child(2)
+{
+    color: white;
+}
+
+/* brand marketing-collateral page ends here */
+
+
+/* business-cards page starts here */
+
+.mainbanner-sec.lpbann-two.business-cards-banner-marketing {
+    background-image: url(../images/new-banners/buisness-card/banner.png);
+    background-size: cover;
+    padding-bottom: 0px;
+    padding-top: 250px;
+}
+.sincer-sec.business-cards-cta img {
+    position: absolute;
+    bottom: 0;
+    top: auto;
+    max-width: 640px;
+}
+
+@media (max-width: 1445px){
+    .sincer-sec.business-cards-cta img {
+        position: absolute;
+        bottom: 0;
+        top: auto;
+        max-width: 640px;
+    }
+}
+
+/* business-cards page ends here */
+
+
+
+/* domain-and-hosting page starts here */
+.domain-and-hosting h3 span {
+    position: relative;
+    z-index: 1;
+    font-family: 'Montserrat';
+}
+.domain-and-hosting h3 span {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+.banner-heading form {
+    position: relative;
+    z-index: 1;
+}
+.digital-demand-section {
+    padding: 150px 0;
+}
+
+.inner-demand span {
+    font-size: 48px;
+    color: #ed3363;
+    font-weight: 700;
+    line-height: 1;
+    font-family: 'Montserrat';
+    max-width: 80%;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.inner-demand h4 {
+    font-size: 60px;
+    color: #000000;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.inner-demand p {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+    margin-bottom: 50px;
+    font-family: 'Montserrat';
+}
+.reliable-hosting {
+    padding: 100px 0;
+    background: #111727;
+}
+
+.reliable-hosting .main-head p {
+    font-size: 24px;
+    color: white;
+}
+
+.reliable-hosting .main-head h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+.inner-reliable {
+    text-align: center;
+    padding: 25px 20px;
+}
+
+.inner-reliable img {
+    margin-bottom: 30px;
+}
+
+.inner-reliable h6 {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.inner-reliable p {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+.digital-demand-section .row{
+    justify-content: space-between;
+    align-items: center;
+}
+@media (max-width: 1600px) {
+    .inner-demand span {
+    font-size: 48px;
+    max-width: 90%;
+  
+}
+.inner-demand h4 {
+    font-size: 55px;
+    margin-bottom: 25px;
+}
+.inner-reliable {
+    padding: 25px 10px;
+}
+}
+@media (max-width: 1445px) {
+    .inner-demand span {
+    font-size: 44px;
+    max-width: 100%;
+}
+.banner-heading h2, .banner-heading h1 {
+    font-size: 60px;
+}
+.inner-demand h4 {
+    font-size: 42px;
+    margin-bottom: 25px;
+}
+.inner-demand p {
+    font-size: 16px;
+    margin-bottom: 50px;
+ 
+}
+.inner-reliable h6 {
+
+    font-size: 22px;
+  
+}
+.inner-reliable p {
+
+    font-size: 14px;
+   
+}
+}
+@media (max-width: 1366px) {
+    .digital-demand-section {
+    padding: 100px 0;
+}
+}
+@media (max-width: 1199px) {
+    .inner-demand p {
+    margin-bottom: 30px;
+}
+.reliable-hosting .main-head p {
+    font-size: 20px;
+ 
+}
+}
+@media (max-width: 991px) {
+    .inner-demand {
+    text-align: center;
+}
+.digital-demand-section img {
+    width: 100%;
+}
+  .banner-heading h2, .banner-heading h1 {
+    font-size: 36px;
+}
+.inner-demand span {
+    font-size: 30px;
+}
+.reliable-hosting .main-head p {
+    font-size: 17px;
+
+}
+.inner-reliable {
+    padding: 25px 10px;
+    border: 1px solid white;
+    border-radius: 15px;
+    min-height: 300px;
+    margin-bottom: 20px;
+}
+.digital-demand-section {
+    padding: 70px 0;
+}
+.reliable-hosting {
+    padding: 70px 0;
+}
+section.cta-1.domain-cta p {
+
+    font-size: 16px;
+}
+}
+@media (max-width: 767px) {
+    .inner-demand h4 {
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+  .banner-heading h2, .banner-heading h1 {
+    font-size: 26px;
+}
+section.cta-1.domain-cta h2 {
+    font-size: 24px;
+
+}
+.reliable-hosting .main-head p {
+    font-size: 14px;
+
+}
+.inner-reliable {
+
+    min-height: auto;
+   
+}
+.inner-demand span {
+    font-size: 25px;
+}
+.digital-demand-section {
+    padding: 50px 0;
+}
+.inner-reliable h6 {
+    font-size: 18px;
+}
+}
+@media (max-width: 575px) {
+    .domain-and-hosting h3 span {
+    font-size: 14px;
+    line-height: inherit;
+}
+  .banner-heading h2, .banner-heading h1 {
+    font-size: 22px;
+}
+.inner-reliable p {
+    font-size: 12px;
+}
+.inner-demand span {
+    font-size: 20px;
+}
+.inner-demand h4 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.inner-demand p {
+    font-size: 14px;
+}
+.inner-demand span {
+    font-size: 17px;
+}
+}
+
+/* domain-and-hosting page ends here */
+
+
+/* art-illustration page starts here */
+
+.cta-illustrate {
+    background: url(../images/illustrate/cta-illustrate.jpg) no-repeat !important;
+    background-size: cover !important;
+    padding: 3.56rem 0rem !important;
+    background-position: top !important;
+}
+ .cta-illustrate .doorstep-mn span {
+    font-size: 48px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Montserrat';
+}
+
+ .cta-illustrate .doorstep-mn h4 {
+    font-size: 24px;
+}
+
+.cta-illustrate .doorstep-mn .lbn-btns a:nth-child(2) {
+    color: white;
+}
+
+@media (max-width: 1600px) {
+            .Customcard-inner h4 {
+                font-size: 40px;
+                line-height: 55px;
+            }
+            .cta-illustrate .doorstep-mn h2 {
+                font-size: 3.5rem;
+                color: #fff;
+            }
+        }
+        
+        @media (max-width: 1445px) {
+            .Customcard-inner h4 {
+                font-size: 30px;
+                line-height: 40px;
+            }
+            .Customcard-inner p {
+                font-size: 16px;
+                line-height: 30px;
+            }
+            .cta-illustrate .doorstep-mn h2 {
+                font-size: 3rem;
+                color: #fff;
+            }
+            .sm-afford h4 {
+                font-size: 20px;
+            }
+            .sm-afford span {
+                font-size: 36px;
+            }
+            .sm-afford {
+                padding: 10px 20px;
+            }
+                    .pack-headd h2 ,
+.pack-headd h1 {
+    font-size: 40px;
+}
+        }
+        
+        @media (max-width: 1199.99px) {
+            .cta-illustrate .doorstep-mn h2 {
+                font-size: 2.5rem;
+                color: #fff;
+            }
+            .cta-illustrate .doorstep-mn h4 {
+                font-size: 16px;
+                color: #fff;
+            }
+            .cta-illustrate .doorstep-mn span {
+                font-size: 36px;
+            }
+            .pack-headd .lbn-btns a {
+                padding: 1.1rem;
+                min-width: 220px;
+            }
+        }
+
+/* art-illustration page ends here */
