@@ -1,0 +1,1388 @@
+ .apparel-banner.tik-sec-1 {
+    background-image: unset !important;
+    background: #000 !important;
+}
+ .custom-contt {
+        max-width: 1320px;
+    }
+
+    .bootom-bar ul {
+        list-style: none;
+        text-align: right;
+        margin-bottom: 0px;
+    }
+
+    .bootom-bar ul li {
+        display: inline-block;
+        border-right: 1px solid #828282;
+        padding: 0px 10px;
+    }
+
+    .bootom-bar ul li:last-child {
+        border-right: none;
+    }
+
+    .bootom-bar ul li a:hover {
+        color: #ee3364;
+    }
+
+    .trust-ban {
+padding-top: 40px;
+}
+
+    .trust-ban p {
+        color: white;
+        font-size: 18px !important;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+
+    .trust-ban ul {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+        margin-bottom: 0px;
+        padding-top: 20px;
+    }
+
+    .apparel-banner {
+            background: #000;
+        padding-top: 200px !important;
+        background-size: cover !important;
+        padding-bottom: 150px !important;
+    }
+
+    .apparel-banner p {
+    font-size: 24px;
+    font-family: 'Muli';
+    font-weight: 500;
+    max-width: 85%;
+    padding: 20px 0px;
+}
+.apparel-banner p small {
+    color: #ff0053;
+}
+    .tiktok-ban h1 {
+    color: white;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 90px;
+}
+
+.tiktok-ban h1 span {
+    display: block;
+    background: linear-gradient(90deg,#00ffff, #8b74a1, #fb0456 ,#fb0456 , #fb0456 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    font-weight: 500;
+    }
+
+    .ban-video {
+    position: relative;
+}
+.ban-video:before {
+    content: '';
+    position: absolute;
+    background: url(assets/images/tiktok/lines-image.png) no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+.inner-one {
+    text-align: end;
+    position: relative;
+}
+.inner-two {
+    position: relative;
+    z-index: 1;
+}
+.viral-btn {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: 'Muli';
+    font-size: 16px;
+    font-weight: 800;
+}
+.viral-btn:hover{
+    color: #000;
+}
+.why-tiktok {
+    background-color: rgb(255, 0, 83);
+    padding: 100px 0px;
+}
+
+.parent-head h2 {
+    font-size: 100px;
+    color: white;
+    font-weight: 900;
+}
+
+.parent-head {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.parent-head p {
+    font-size: 24px;
+    color: white;
+    max-width: 82%;
+    margin: auto;
+    padding-top: 10px;
+}
+.why-tiktok .row + .row:before {
+    content: '';
+    position: absolute;
+    background-color: #ff80a9;
+    width: 110%;
+    height: 1px;
+    margin: auto;
+    right: -80px;
+}
+
+.why-tiktok .row + .row {
+    position: relative;
+}
+
+.inner-infotik {
+    text-align: center;
+    padding: 40px 50px;
+    border-top: none;
+    height: 100%;
+}
+
+.why-tiktok .row + .row:after {
+    content: '';
+    position: absolute;
+    background-color: #ff80a9;
+    width: 110%;
+    height: 1px;
+    margin: auto;
+    right: -80px;
+    bottom: 0;
+}
+    .packPort-inner {
+        margin-bottom: 10px;
+    }
+
+    .customCard {
+        padding-bottom: 40px;
+    }
+
+    .Customcard-inner h4 {
+        font-size: 54px;
+        line-height: 72px;
+    }
+
+    .Customcard-inner p {
+        font-size: 18px;
+        color: #000;
+        font-family: 'Montserrat';
+        font-weight: 400;
+        line-height: 36px;
+        padding-top: 15px;
+    }
+
+    .customCard .row {
+        align-items: center;
+    }
+
+    .packadorp .main-head p {
+        max-width: 70%;
+        margin: auto;
+    }
+
+    .cta-apparels {
+        background: url(assets/images/construction/cta-real3860.jpg?v=1) no-repeat !important;
+        background-size: cover !important;
+        padding: 3.56rem 0rem !important;
+        background-position: top !important;
+    }
+
+    .cta-apparels .doorstep-mn h4 {
+        font-size: 24px;
+    }
+
+    .cta-apparels .doorstep-mn h2 {
+        color: white;
+        line-height: 60px;
+        line-height: initial;
+    }
+
+    .cta-apparels .doorstep-mn span {
+        font-size: 48px;
+        color: white;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-family: 'Montserrat';
+    }
+
+    .cta-apparels .doorstep-mn .lbn-btns {
+        padding-top: 30px;
+    }
+
+    .cta-apparels .doorstep-mn .lbn-btns a:nth-child(2) {
+        color: white;
+    }
+
+    .afford-plans {
+        padding: 100px 0px 0px;
+    }
+
+    .afford-plans .lbn-btns {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .sm-afford {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 35px;
+        border: 1px solid rgb(103, 53, 10);
+        border-top: none;
+        transition: 0.5s;
+        min-height: 100px;
+    }
+
+    .sm-afford h4 {
+        font-size: 30px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+    }
+
+    .sm-afford span {
+        font-size: 48px;
+        color: #ed3363;
+        font-family: 'Montserrat';
+        font-weight: 800;
+    }
+
+  
+
+
+      .buissness-card-banner img {
+        
+            /* visibility: hidden;
+            transition: 0.5s; */
+            /* position: relative;
+            right: 10%;
+            width: 800px;
+            animation: moving-fish 15s; */
+     
+        }
+
+        /* .buissness-card-banner img.active {
+            animation: cards1 1s linear;
+            animation-fill-mode: forwards;
+            display: block !important;
+            visibility: visible;
+        } */
+    .offer-inner img {
+    animation: scrollDownAnimation .5s ease infinite alternate;
+    -webkit-animation: scrollDownAnimation .5s ease infinite alternate;
+}
+        @keyframes moving-fish {
+    0% {
+        right: -30%;
+    }
+    
+    100% {
+        right: 10%;
+    }
+}
+@-moz-keyframes moving-fish {
+    0% {
+        right: -30%;
+    }
+    
+    100% {
+        right: 10%;
+    }
+}
+@-webkit-keyframes moving-fish {
+    0% {
+        right: -30%;
+    }
+    
+    100% {
+        right: 10%;
+    }
+}
+@keyframes scrollDownAnimation {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+@-moz-keyframes scrollDownAnimation {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+@-webkit-keyframes scrollDownAnimation {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-10px);
+    }
+}
+
+
+    .collab-handle .pond-txt p:after {
+        display: none;
+    }
+
+    .collab-handle figure {
+        margin: 0;
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 50px 50px 0px rgba(114, 85, 230, 0.1), 0px 50px 50px 0px rgba(114, 85, 230, 0.1);
+        width: 350px;
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .collab-handle {
+        display: flex;
+        align-items: flex-start;
+        /* gap: 0px; */
+        padding: 20px 20px !important;
+        transition: 0.5s;
+        min-height: 300px;
+    }
+
+    .collab-handle figure:before {
+        display: none;
+    }
+
+    .collab-handle:hover {
+        background: #ed3363;
+    }
+
+    .collab-handle:hover h4,
+    .collab-handle:hover p {
+        color: white;
+    }
+    .slider-nav-custom .slick-dots li button {
+        background: #b8b8bb;
+        width: 15px;
+        height: 15px;
+        border-radius: 40px;
+    }
+
+    .slider-nav-custom .slick-dots {
+        justify-content: left;
+    }
+
+    .slider-nav-custom .slick-dots .slick-active button {
+        background: #cf2e54;
+    }
+
+    .Customcard-inner span {
+color: #0a0a0a;
+font-size: 16px;
+display: block;
+font-family: 'Montserrat';
+font-weight: 700;
+padding-top: 40px;
+}
+
+.Customcard-inner span small {
+display: block;
+font-weight: 700;
+}
+.combo-Offer{
+background: url(assets/images/dentistry/combo-bg.jpg) no-repeat;
+background-size: cover;
+/* min-height: 700px; */
+padding: 80px 0px;
+}
+
+.offer-inner ul li {
+    font-style: italic;
+    color: #191919;
+    font-weight: 700;
+}
+.combo-mn ul li i {    color: #337304;}
+.combo-mn h4 {color: #191919;font-style: italic;font-weight: 800;font-family: 'Montserrat';}
+
+.combo-mn h4 span {
+color: #f30d0a;
+font-weight: 800;
+}
+
+
+/* new package */
+
+.inner-price {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 25px 50px 0px rgba(250, 30, 85, 0.1);
+    border: 1px solid rgb(211, 213, 217);
+    padding: 30px 30px 40px;
+}
+
+.inner-price h3 {
+    font-size: 60px;
+    font-weight: 600;
+    color: #111727;
+}
+
+.inner-price h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111727;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+.inner-price p {
+    color: #4b525e;
+    font-size: 14px;
+    font-weight: 500;
+}
+.inner-price .main-btns {
+    padding: 10px 0px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.inner-price:hover .pkg_link{
+    /* border: 1px solid rgb(211, 213, 217); */
+    background: #ff3065;
+    color: white;
+
+}
+
+.inner-price .main-btns .btn_black {
+    border: 1px solid rgb(211, 213, 217);
+    background: white !important;
+    color: #111727;
+}
+
+
+
+.inner-price .content-mn h6 {
+    color: #111727;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+
+
+.inner-price .content-mn ul {
+    padding-top: 10px;
+}
+
+.inner-price .content-mn ul li {
+    font-size: 14px;
+    font-weight: 500;
+    color: #4b525e;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: baseline;
+}
+
+.inner-price .content-mn ul li i {
+    background: #ff3065;
+    display: inline-flex;
+    padding: 5px 5px;
+    width: 25px;
+    border-radius: 50%;
+    margin-right: 6px;
+    font-size: 14px;
+    flex: 0 0 25px;
+    text-align: center;
+    color: white;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-price h3 sup {
+    font-size: 16px;
+    font-weight: 700;
+    top: -30px;
+    text-decoration: none !important;
+}
+
+.inner-price .main-btns a {
+    font-size: 16px;
+    font-weight: 600;
+    width: 125px;
+    height: 50px;
+    padding: 12px 0px;
+    display: flex;
+    background: #111727;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.inner-price:hover .btn_black {
+    background: #111727 !important;
+    color: white;
+}
+.inner-price:hover {
+    background: #111727;
+}
+
+.inner-price:hover h4 {
+    color: #ff3065;
+}
+
+.inner-price:hover h3 {
+    color: white;
+}
+
+.inner-price:hover p {
+    color: white;
+}
+
+.inner-price:hover .content-mn h6 {
+    color: white;
+}
+
+.inner-price:hover .content-mn ul li {
+    color: white;
+}
+.inner-price .content-mn ul{
+    height: 220px;
+    overflow: auto;
+    overflow-anchor: initial;
+    padding-right: 10px
+}
+.inner-price .content-mn ul::-webkit-scrollbar {
+    height: 100px;
+    width: 10px;
+    background: #000;
+    border-radius: 16px
+}
+
+.inner-price .content-mn ul::-webkit-scrollbar-track {
+    color: #000;
+    border-radius: 16px
+}
+
+.inner-price .content-mn ul::-webkit-scrollbar-thumb {
+    background-color: #babac0;
+    border-radius: 16px;
+    border: 5px solid #c62b60
+}
+.slider-for-custom img {
+    margin: auto;
+}
+
+.proc-img img {
+    border: 4px solid white;
+    border-radius: 50%;
+}
+.inner-infotik h4 {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+
+    padding-top: 15px;
+    text-align: initial;
+}
+.frst-tok:before 
+{
+    content: '';
+    position: absolute;
+    height: 125%;
+    background: #ff80a9;
+    width: 1px;
+    left: 0;
+    top: -40px;
+}
+
+.last-tok:after {
+    content: '';
+    position: absolute;
+    height: 125%;
+    background: #ff80a9;
+    width: 1px;
+    right: 0;
+    top: -40px;
+
+}
+.second-tok:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 1px;
+    background: #ff80a9;
+    left: 0;
+    top: 45px;
+}
+
+.third-tok:before {
+    content: '';
+    position: absolute;
+    background: #ff80a9;
+    height: 100%;
+    top: -40px;
+    left: 0;
+    width: 1px;
+}
+.perk-head h2 ,
+.perk-head p 
+{
+    color: black;
+}
+.perk-work{
+    padding: 100px 0 40px;
+}
+.inner-perk {
+    padding: 40px 0px;
+}
+.inner-perk h4{
+    font-size: 24px;
+    font-weight: 800;
+    color: #ff0053;
+    padding-bottom: 10px;
+}
+.inner-perk p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+.tiktok-process{
+    background: #111727;
+    padding: 100px 0  70px;
+}
+
+
+
+.step-txt span {
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    padding: 0px 12px;
+    justify-content: center;
+}
+
+
+.step-txt  small {
+    font-size: 18px;
+    color: #00ffff;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.step-txt span:before {
+    content: '';
+    background: linear-gradient(180deg, transparent , transparent , #fb0456, #fb0456   );
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    border-radius: 80px;
+    top: -100px;
+    left: 0;
+    z-index: -1;
+}
+section#pricing {
+    background: #f5f5fa;
+}
+
+.step-txt h3 {
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+    padding-top: 15px;
+}
+
+.step-txt p {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    max-width: 70%;
+}
+
+.tiktok-process .row + .row {
+    border-bottom: 1px solid #343946;
+    position: relative;
+    padding: 50px 0px;
+}
+.tiktok-process .lst-row{
+    border-bottom: none !important;
+}
+.about-brand .parent-head h2{
+    color: black;
+}
+.about-brand .parent-head h2 span{
+    color: #ff0053;
+}
+.about-brand {
+    padding: 100px 0px;
+}
+.inner-tikbrand{
+    border-radius: 10px;
+  background-color: rgb(245, 245, 250);
+}
+.inner-tikbrand {
+    padding: 60px 50px;
+    margin-bottom: 30px;
+    transition: 0.5s;
+    border: 1px solid #f5f5fa;
+    min-height: 300px;
+}
+
+.inner-tikbrand h3 {
+    font-size: 30px;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+.inner-tikbrand p {
+    font-weight: 600;
+    font-size: 18px;
+    color: black;
+    font-family: 'Montserrat';
+}
+.inner-tikbrand:hover {
+    border: 1px solid  rgb(255, 0, 83);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 50px 50px 0px rgba(237, 51, 99, 0.1);
+}
+.tiktok-videos{
+    padding: 50px 0px;
+    background: black;
+}
+.video-tiktok img {
+    width: 100%;
+}
+.video-tiktok {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+    z-index: 1;
+}
+
+.content-vides h3 {
+    font-size: 200px;
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 900;
+
+}
+
+.vides-mn video {
+    width: 370px;
+    border-radius: 25px;
+    /* border: 5px solid #fe2b54; */
+}  
+.vides-mn img.phone-image {
+    width: 370px;
+    border-radius: 25px;
+    border: 5px solid #ffffff;
+    object-fit: cover;
+    position: relative;
+    z-index: 1;
+    padding: 0px 0px 0px 0px;
+}
+
+.vides-mn {
+    position: relative;
+}
+    /* .tiktok-videoslider > button.slick-prev {
+    left: 0;
+    bottom: -50px;
+    top: auto;
+    z-index: 11;
+}
+.tiktok-videoslider > button.slick-next {
+    right: auto;
+    left: 80px;
+    bottom: -50px;
+    top: auto;
+    z-index: 11;
+} */
+
+.vides-mn video {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    height: 100%;
+    margin-bottom: 20px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+} 
+.parag-tikotk p {
+    font-size: 36px;
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    line-height: initial;
+}
+/* new package */
+    @media (max-width: 1700px){
+        .inner-price .main-btns a {
+    width: 110px;
+
+}
+
+    }
+
+    @media (max-width: 1600px) {
+        .Customcard-inner h4 {
+            font-size: 40px;
+            line-height: 55px;
+        }
+
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 3.5rem;
+            color: #fff;
+        }
+      .pack-headd .lbn-btns a:nth-child(2) {
+    padding: 1.1rem 1rem;
+}
+.tiktok-ban h1 {
+    font-size: 85px;
+    line-height: 80px;
+}
+.inner-two {
+    display: flex;
+    align-items: center;
+}
+.inner-infotik {
+
+    padding: 40px 20px;
+  
+}
+.parent-head h2 {
+    font-size: 80px;
+
+}
+.inner-tikbrand {
+    padding: 40px 30px;
+    min-height: 360px;
+}
+      .about-brand {
+    padding-bottom:  0px  !important;
+}
+      .review-mn {
+    padding-bottom:  0px  !important;
+      }
+      
+.tiktok-ban .thm-btn.mini-btn {
+    min-width: 215px;
+    text-align: center;
+}
+
+.tiktok-ban .thm-btn.mini-btn:hover {
+    background: #ef376d;
+    color: white;
+}
+  }
+
+    @media (max-width: 1445px) {
+        .Customcard-inner h4 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+
+        .Customcard-inner p {
+            font-size: 16px;
+            line-height: 30px;
+        }
+
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 3rem;
+            color: #fff;
+        }
+
+        .sm-afford h4 {
+            font-size: 20px;
+        }
+
+        .sm-afford span {
+            font-size: 36px;
+        }
+        .content-vides h3 {
+    font-size: 180px;
+}
+        .inner-infotik h4 {
+    font-size: 20px;
+   
+}
+        .sm-afford {
+            padding: 10px 20px;
+        }
+        .pack-headd h2 {
+font-size: 50px;
+}
+.inner-price p {
+    font-size: 12px;
+ 
+}
+
+.inner-price h3 {
+    font-size: 50px;
+}
+.inner-price {
+    padding: 20px 10px 20px;
+    margin-bottom: 20px;
+
+}
+.inner-price .main-btns a {
+    width: 90px;
+    font-size: 14px;
+}
+.tiktok-ban h1 ,
+.parent-head h2 {
+    font-size: 70px;
+    line-height: 70px;
+}
+.apparel-banner p {
+    font-size: 22px;
+    padding: 20px 0px;
+}
+.parent-head p {
+    font-size: 22px;
+    max-width: 92%;
+}
+.parent-head {
+
+    padding-bottom: 70px;
+}
+.inner-tikbrand h3 {
+    font-size: 25px;
+  
+}
+    }
+    @media (max-width: 1366px) {
+    .pack-headd h2 {
+font-size: 40px;
+}
+.apparel-banner p {
+font-size: 18px;
+}
+.inner-perk h4 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.content-vides h3 {
+    font-size: 150px;
+  
+}
+.pack-headd .lbn-btns a {
+            min-width: 200px;
+        }
+        .pack-headd .lbn-btns a:nth-child(2) {
+    padding: 1.1rem 0rem;
+}
+.parent-head p {
+    font-size: 20px;
+    max-width: 100%;
+}
+.inner-perk p {
+    font-size: 16px;
+    
+    
+}
+.step-txt p {
+    font-size: 16px;
+    max-width: 100%;
+}
+.step-txt h3 {
+    font-size: 40px;
+    padding-top: 15px;
+}
+.why-tiktok,
+.perk-work, 
+.tiktok-process,
+.tiktok-videos,
+.about-brand
+  {
+    padding: 70px 0px;
+}
+.inner-tikbrand h3 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+}
+
+    @media (max-width: 1199.99px) {
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 2.5rem;
+            color: #fff;
+        }
+        .inner-perk {
+    padding: 20px 0px;
+}
+.inner-infotik h4 {
+    font-size: 18px;
+}
+.parent-head {
+    padding-bottom: 40px;
+}
+
+
+.parent-head p {
+    font-size: 18px;
+ 
+}
+.content-vides h3 {
+    font-size: 100px;
+   
+}
+        .cta-apparels .doorstep-mn h4 {
+            font-size: 16px;
+            color: #fff;
+        }
+
+        .cta-apparels .doorstep-mn span {
+            font-size: 36px;
+        }
+
+        .pack-headd .lbn-btns a {
+            padding: 1.1rem;
+            min-width: 220px;
+        }
+
+        .inner-price .main-btns a {
+    width: 100% ;
+}
+.parag-tikotk p {
+    font-size: 28px;
+
+}
+    }
+
+    @media (max-width: 991.98px) {
+        .pack-headd .lbn-btns {
+            display: unset;
+        }
+        .step-txt h3 {
+    font-size: 32px;
+}
+   .inner-perk h4 br {
+    display: none;
+}
+.proc-img {
+    display: none;
+}
+.parag-tikotk p {
+    font-size: 20px;
+    
+}
+.inner-tikbrand h3 {
+    font-size: 20px;
+}
+        .why-tiktok, .perk-work, .tiktok-process, .tiktok-videos, .about-brand {
+    padding: 40px 0px;
+}
+        .why-tiktok .row + .row:before,
+        .why-tiktok .row + .row:after,
+            .frst-tok:before,
+            .third-tok:before,
+            .last-tok:after,
+            .second-tok:before{
+            background: none;
+        }
+        .inner-infotik{
+            border: 1px solid white;
+            height: 300px;
+    margin-bottom: 10px;
+        }
+        .inner-tikbrand {
+    padding: 30px 40px;
+    margin-bottom: 15px;
+    min-height: auto;
+}
+.inner-perk {
+    padding: 20px 12px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    min-height: 300px;
+
+}
+.inner-perk h4 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.tiktok-ban h1, .parent-head h2 {
+    font-size: 50px;
+    line-height: initial;
+}
+        .cta-apparels .doorstep-mn h2 {
+            line-height: initial;
+        }
+
+        .cta-apparels .doorstep-mn span {
+            font-size: 30px;
+        }
+
+        .packadorp .main-head p {
+            max-width: 100%;
+        }
+
+        .cta-apparels {
+            background: #fa7441 !important;
+        }
+
+  
+
+        .sm-afford span {
+            font-size: 26px;
+        }
+
+        .trust-ban {
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .trust-ban p {
+            font-size: 14px !important;
+        }
+
+        .sm-afford {
+            min-height: auto;
+        }
+
+        .collab-handle {
+            min-height: auto;
+        }
+
+        .Customcard-inner {
+            text-align: center;
+        }
+        .slider-nav-custom .slick-dots {
+            justify-content: center;
+        }
+
+        .slider-nav-custom .slick-dots {
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .buissness-card-banner {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.apparel-banner p {
+    font-size: 16px;
+    max-width: 100%;
+}
+
+.pack-headd h2 {
+font-size: 35px;
+}
+.buss-proceed-box {
+border: 1px solid #b8b8bb;
+}
+.buss-how-we-proceed .row>div:last-child .buss-proceed-box{
+
+border: 1px solid #b8b8bb;
+}
+.buss-proceed-box img {
+margin: 0;
+margin-bottom: 20px;
+}
+.buss-proceed-box h3 {
+font-size: 22px;
+
+}
+.portfolio-sec .nav-tabs {
+justify-content: center;
+}
+.trust-ban ul {
+justify-content: center;
+}
+.combo-sd {
+display: none;
+}
+.combo-Offer{
+background: #fbc711;
+padding: 40px 0;
+}
+.ban-video{
+    display: none;
+}
+.apparel-banner {
+    padding-top: 150px !important;
+    padding-bottom: 70px !important;
+}
+    }
+
+    @media (max-width: 767px) {
+        .cta-apparels .doorstep-mn span {
+            font-size: 20px;
+        }
+        .inner-perk {
+    padding: 20px 12px;
+    
+    min-height: auto;}
+    .inner-tikbrand h3 {
+    font-size: 18px;
+  
+}
+.video-tiktok {
+    gap: 20px;
+    flex-direction: column;
+}
+.vides-mn video ,
+.vides-mn img.phone-image {
+    width: 280px;
+
+}
+.vides-mn video {
+    height: auto;
+    margin-bottom: 28px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.parag-tikotk p br{
+    display: none;
+}
+
+.inner-tikbrand p {
+    font-size: 15px;
+
+}
+.inner-tikbrand {
+    padding: 20px 15px;
+    margin-bottom: 15px;
+    min-height: auto;
+}
+    .inner-perk p {
+    font-size: 14px;
+}
+        .Customcard-inner h4 {
+            font-size: 24px;
+            line-height: 36px;
+        }
+        .tiktok-ban h1, .parent-head h2 {
+    font-size: 35px;
+    line-height: initial;
+}
+.inner-perk h4 {
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+        .Customcard-inner p {
+            font-size: 14px;
+            line-height: 24px;
+        }
+        .trust-ban {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .pack-headd h2 {
+font-size: 32px;
+}
+.portfolio-sec .nav-tabs {
+justify-content: flex-start;
+}
+
+
+.inner-price h3 {
+    font-size: 40px;
+}
+.inner-price .main-btns {
+    padding: 10px 0px 10px;
+}
+.inner-price h4 {
+    font-size: 20px;
+}
+.parent-head p {
+    font-size: 16px;
+    line-height: inherit;
+}
+.inner-infotik h4 br{
+    display: none;
+}
+.inner-infotik {
+
+    height: auto;
+    margin-bottom: 10px;
+}
+.inner-infotik h4 {
+    font-size: 18px;
+    text-align: center;
+}
+.content-vides h3{
+    display: none;
+}
+.parag-tikotk p {
+    display: block !important;
+    text-align: center;
+    margin: 0;
+}
+    }
+
+    @media (max-width: 575.98px) {
+        .Customcard-inner h4 {
+            font-size: 18px;
+            line-height: 30px;
+        }
+        .step-txt h3 {
+    font-size: 24px;
+ 
+}
+
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 20px;
+        }
+
+        .sm-afford h4 {
+            font-size: 16px;
+        }
+        .tiktok-ban h1, .parent-head h2 {
+    font-size: 28px;
+    line-height: initial;
+}
+        .sm-afford span {
+            font-size: 20px;
+        }
+        .parent-head p {
+    font-size: 14px;
+    line-height: inherit;
+}
+
+        .packPort-inner {
+            text-align: center;
+        }
+        .pack-headd h2 {
+font-size: 28px;
+}
+.apparel-banner p {
+font-size: 14px;
+}
+.Customcard-inner span {
+font-size: 14px;
+padding-top: 10px;
+}
+.main-head {
+padding-bottom: 0rem;
+}
+    }

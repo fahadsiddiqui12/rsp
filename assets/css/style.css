@@ -12148,3 +12148,1271 @@ section.mainbanner-sec.content-ban::before {
     }
 }
 /* content-development page ends here */
+
+
+/* banner-ad-design page starts here */
+
+ .ads-banner {
+    background: url(../images/sm-ads/sm-bann.jpg) no-repeat !important;
+    padding-top: 200px !important;
+    background-size: cover !important;
+}
+.pack-headd h2 ,
+  .pack-headd h1{
+            font-size: 60px;
+            color: #fff;
+        }
+        
+        .pack-headd .lbn-btns {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+        
+        .pack-headd .lbn-btns a:nth-child(2) {
+            color: white;
+        }
+        
+        .pack-headd .lbn-btns a:nth-child(2):hover {
+            background: black;
+        }
+        
+        .packPort-inner {
+            margin-bottom: 10px;
+        }
+        
+        .customCard {
+            padding-bottom: 100px;
+        }
+        
+        .Customcard-inner h4 {
+            font-size: 54px;
+            line-height: 72px;
+        }
+        
+        .Customcard-inner p {
+            font-size: 18px;
+            color: #000;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            line-height: 36px;
+            padding-top: 15px;
+        }
+        
+        .customCard .row {
+            align-items: center;
+        }
+        
+        .packadorp .main-head p {
+            max-width: 70%;
+            margin: auto;
+        }
+        
+        .sm-cta {
+            background: url(../images/sm-ads/sm-cta.jpg) no-repeat !important;
+            background-size: cover !important;
+        }
+        
+        .cta-pack .doorstep-mn h2 {
+            color: black;
+            line-height: 72px;
+            color: white;
+        }
+        
+        .cta-pack .doorstep-mn span {
+            font-size: 48px;
+            color: white;
+            text-transform: uppercase;
+            font-weight: 700;
+            font-family: 'Montserrat';
+        }
+        
+        .cta-pack .doorstep-mn .lbn-btns {
+            padding-top: 30px;
+        }
+        
+        .sm-cta .doorstep-mn .lbn-btns a:nth-child(2) {
+            color: white;
+            border: 1px solid white;
+        }
+        
+        .afford-plans {
+            padding: 100px 0px 0px;
+        }
+        
+        .afford-plans .lbn-btns {
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+        
+        .sm-afford {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 35px 30px;
+            border: 1px solid rgb(103, 53, 10);
+            border-top: none;
+            transition: 0.5s;
+        }
+        
+        .sm-afford h4 {
+            font-size: 30px;
+            font-family: 'Montserrat';
+            font-weight: 700;
+        }
+        
+        .sm-afford span {
+            font-size: 48px;
+            color: #ed3363;
+            font-family: 'Montserrat';
+            font-weight: 800;
+        }
+        
+        .affordInner {
+            border: 1px solid transparent;
+            margin-bottom: 40px;
+            transition: 0.5s;
+            border-top: none;
+        }
+        
+        .affordInner:hover .sm-afford {
+            background-color: rgb(255, 255, 255);
+            box-shadow: 0px 50px 50px 0px rgba(79, 41, 102, 0.25);
+            border: 1px solid rgb(79, 41, 102);
+            border-top: none;
+        }
+        
+        .firstAfford {
+            border-color: #391b4d;
+        }
+        
+        .SecondAfford {
+            border-color: #fabd00;
+        }
+        
+        .thirdAfford {
+            border-color: rgb(4 142 5);
+        }
+        
+        .fourthAfford {
+            border-color: rgb(255 104 59);
+        }
+        
+        .fiveAfford {
+            border-color: rgb(15 56 99);
+        }
+        
+        .sixAfford {
+            border-color: rgb(242 55 107);
+        }
+        
+        .sevenAfford {
+            border-color: rgb(93 27 151);
+        }
+        
+        .eightAfford {
+            border-color: rgb(130 63 46);
+        }
+        
+        .nineAfford {
+            border-color: rgb(31 31 31);
+        }
+        
+        .cta-pack .doorstep-mn h2 {
+            font-size: 68px;
+        }
+        
+        .first-handle:after {
+            content: '';
+            position: absolute;
+            background: #b8b8bb;
+            height: 250px;
+            width: 1px;
+            right: -15px;
+            bottom: 0px;
+        }
+        
+        .fourth-handle:after {
+            content: '';
+            position: absolute;
+            background: #b8b8bb;
+            height: 250px;
+            width: 1px;
+            left: -16px;
+            top: -30px;
+        }
+        
+        .third-handle:before {
+            content: '';
+            position: absolute;
+            background: #b8b8bb;
+            height: 1px;
+            width: 250px;
+            right: -15px;
+            top: -15px;
+        }
+        
+        .second-handle:before {
+            content: '';
+            position: absolute;
+            background: #b8b8bb;
+            height: 1px;
+            width: 250px;
+            left: -16px;
+            bottom: -16px;
+        }
+        
+        .handle-Mn span {
+            color: #e9e9f3;
+            font-size: 150px;
+            font-family: 'Montserrat';
+            font-weight: 800;
+            position: absolute;
+            top: -45px;
+            left: 20px;
+        }
+        
+        .handle-Mn h4 {
+            color: #000000;
+            font-size: 30px;
+            position: relative;
+        }
+        
+        .handle-Mn p {
+            font-size: 18px;
+            color: black;
+            font-weight: 400;
+            font-family: 'Montserrat';
+        }
+        
+        .handle-Mn {
+            position: relative;
+            padding: 100px 30px 40px 60px;
+            background: transparent;
+            margin-bottom: 30px;
+        }
+        
+        .handle-Mn:hover {
+            background: #000000;
+        }
+        
+        .handle-Mn:hover span {
+            color: #ffffff57;
+        }
+        
+        .handle-Mn:hover h4,
+        .handle-Mn:hover p {
+            color: #ffffff;
+        }
+        
+        @media (max-width: 1600px) {
+            .Customcard-inner h4 {
+                font-size: 40px;
+                line-height: 55px;
+            }
+            .cta-pack .doorstep-mn h2 {
+                font-size: 3.5rem;
+                color: #fff;
+            }
+        }
+        
+        @media (max-width: 1445px) {
+            .Customcard-inner h4 {
+                font-size: 30px;
+                line-height: 40px;
+            }
+            .Customcard-inner p {
+                font-size: 16px;
+                line-height: 30px;
+            }
+            .cta-pack .doorstep-mn h2 {
+                font-size: 3rem;
+                color: #fff;
+            }
+            .sm-afford h4 {
+                font-size: 20px;
+            }
+            .sm-afford span {
+                font-size: 36px;
+            }
+            .sm-afford {
+                padding: 10px 20px;
+            }
+            .cta-pack .doorstep-mn h2 br {
+                display: none;
+            }
+            .handle-Mn p {
+                font-size: 16px;
+            }
+          .pack-headd h2,
+          .pack-headd h1 {
+            font-size: 40px;
+          }
+        }
+        
+        @media (max-width: 1199.99px) {
+            .cta-pack .doorstep-mn h2 {
+                font-size: 2.5rem;
+                color: #fff;
+                line-height: initial;
+            }
+            .cta-pack .doorstep-mn h4 {
+                font-size: 20px;
+                color: #fff;
+            }
+            .cta-pack .doorstep-mn span {
+                font-size: 36px;
+            }
+            .pack-headd .lbn-btns {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+        
+        @media (max-width: 991.98px) {
+            .pack-headd .lbn-btns {
+                display: unset;
+            }
+            .cta-pack .doorstep-mn h2 {
+                line-height: initial;
+            }
+            .cta-pack .doorstep-mn span {
+                font-size: 30px;
+            }
+            .packadorp .main-head p {
+                max-width: 100%;
+            }
+            .cta-pack {
+                background: #007cfa !important;
+            }
+            .afford-plans {
+                padding: 50px 0px 0px;
+            }
+            .sm-afford span {
+                font-size: 26px;
+            }
+            .trust-ban {
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+                align-items: center;
+                gap: 10px;
+            }
+            .trust-ban p {
+                font-size: 14px !important;
+            }
+            .sm-cta {
+                background: #cd2961 !important;
+            }
+            .first-handle:after,
+            .second-handle:before,
+            .third-handle:before,
+            .fourth-handle:after {
+                display: none;
+            }
+            .handle-Mn span {
+                font-size: 120px;
+                top: -30px;
+            }
+            .handle-Mn {
+                padding: 100px 30px 40px 30px;
+            }
+             .pack-headd h2 ,
+          .pack-headd h1{
+            font-size: 36px;
+          }
+          .buissness-card-banner img {
+    margin: auto;
+}
+          .ads-banner {
+    background: orange !important;
+}
+        }
+        
+        @media (max-width: 767px) {
+            .cta-pack .doorstep-mn span {
+                font-size: 20px;
+            }
+            .Customcard-inner h4 {
+                font-size: 24px;
+                line-height: 36px;
+            }
+            .Customcard-inner p {
+                font-size: 14px;
+                line-height: 24px;
+            }
+            .affordInner img {
+                width: 100%;
+                object-fit: cover;
+            }
+            .trust-ban {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            .customCard {
+                padding-bottom: 30px;
+            }
+        }
+        
+        @media (max-width: 575.98px) {
+            .Customcard-inner h4 {
+                font-size: 18px;
+                line-height: 30px;
+            }
+            .cta-pack .doorstep-mn h2 {
+                font-size: 1.5rem;
+            }
+            .sm-afford h4 {
+                font-size: 16px;
+            }
+            .sm-afford span {
+                font-size: 20px;
+            }
+            .packPort-inner {
+                text-align: center;
+            }
+             .pack-headd h2 ,
+            .pack-headd h1{
+            font-size: 26px;
+          }
+        .Customcard-inner {
+    text-align: center;
+}  
+          
+        }
+  
+  
+  /*àdd to cart*/
+
+   .py_70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+  .bundle-heading h5 {
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+
+
+.addon-nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-items: center;
+}
+
+@media (min-width: 1200px){
+.container {
+    max-width: 1240px;
+}
+}
+
+.bottom-nav-ative .addon-nav {
+    visibility: visible;
+    opacity: 1;
+}
+.addon-nav {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background: #fff;
+    z-index: 111;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    visibility: hidden;
+    transition: .5s;
+    opacity: 0;
+    box-shadow: 0 0 48px 0 #00000024;
+}
+
+.numberseleted {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+
+.addon-nav .container .addon-nav-btn {
+    margin-bottom: 0;
+}
+.c_btn {
+    text-align: center;
+    font-weight: 600;
+    text-transform: capitalize;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 12px 30px;
+    letter-spacing: .5px;
+    font-size: 17px;
+}
+
+.bundle-label {
+    border: none;
+    border-radius: 0;
+    text-align: left;
+    padding: 0;
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.bundle-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    opacity: 0;
+}
+
+.bundle-inside-wrap {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: rgb(0 0 0 / 10%) 0 3px 9px 0;
+    text-align: center;
+    border: 5px solid transparent;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.bundle-card {
+    text-align: left;
+    position: relative;
+    z-index: 1;
+}
+
+.bundle-card-img {
+    position: relative;
+}
+
+figure::before {
+    content: "";
+    position: absolute;
+    width: auto;
+    height: 100%;
+    background: var(--primary-color);
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: .5s;
+}
+
+.bundle-img {
+    position: relative;
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+.bundle-heading {
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.bundle-price {
+    margin: 0;
+    padding-bottom: 15px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: right;
+}
+.bundle-price {
+    min-width: 95px;
+}
+
+.bundle-inside-wrap .bundle-price p {
+    text-align: right;
+}
+
+
+.bundle-price .price-para {
+    font-size: 48px;
+    color: #ed3363;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    position: relative;
+    /*top: -20px;*/
+}
+  
+  .cart__set {
+    max-width: 1500px!important;
+}
+  
+.bundle-input:checked+.bundle-inside-wrap {
+    border: 5px solid #ee3364!important;
+}
+
+.bundle-input:checked+.bundle-inside-wrap::before {
+    content: "\f058";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    position: absolute;
+    z-index: 12;
+    color: #ee3364!important;
+    font-size: 30px;
+    right: 10px;
+    top: 10px;
+}
+
+
+.price {
+    font-size: 1.2rem;
+    color:#ff0053;
+    font-weight:700;
+}
+
+.price::before {
+    content: "\f058";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+  
+    z-index: 12;
+    color: #2d8f16;
+    font-size: 17px;
+    top: 1px;
+    padding-right: 0.2rem;
+}
+
+.bundle-heading h5{
+font-size: 30px;
+    font-family: 'Montserrat';
+    font-weight: 700;    
+}
+
+
+.bundle-box.row>div {
+    margin-bottom: 30px;
+}
+
+.price-table h2 sup {
+    text-decoration: line-through;
+    font-size: 18px;
+    position: relative;
+    top: -22px;
+    color: #ff0053;
+}
+.box-wrap a {
+    position: relative;
+    display: block;
+}
+
+.box-wrap a span {
+   width: 50px;
+    height: 50px;
+    background: #ff0154;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    padding: 7px;
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-wrap a span i {
+    color: white;
+}
+
+.box-wrap a img {
+    width: 100%;
+}
+
+.sub_title_text {
+    display: block;
+    font-size: 20px;
+    padding-top: 6px;
+    font-weight: 500;
+}
+
+
+.slick-initialized .slick-slide {
+ display: block;
+}
+
+.slick-slide {
+     display:block!important; 
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+  
+.section_title {
+    position: relative;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+
+/* banner-ad-design page ends here */
+
+
+
+/* affiliate-marketing page starts here */
+
+section.mainbanner-sec.content-ban {
+    background-image: url(../images/affiliate/banner.jpg );
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
+
+ .lpbann-three .an-custom-container {
+            margin-bottom: 0px;
+            margin-top: 40px;
+        }
+  .review-mn {
+    padding-bottom: 0px !important;
+}
+
+        .imagess-sides {
+            position: absolute;
+            right: 230px;
+            max-width: 800px;
+            bottom: 0;
+        }
+
+        .superpower-sec {
+            padding: 100px 0px;
+        }
+
+        .inner-superr h4 {
+            font-size: 24px;
+            font-weight: 700;
+            color: black;
+            padding-top: 40px;
+        }
+
+        .inner-superr p {
+            font-family: 'Montserrat';
+            font-size: 16px;
+            color: black;
+            font-weight: 500;
+            line-height: 30px;
+        }
+
+        .ad-ecplore {
+            font-weight: 600;
+            color: #ed3363;
+            font-size: 16px;
+            display: block;
+            padding-top: 40px;
+            font-family: 'Montserrat';
+        }
+
+        .main-head p {
+            font-size: 18px;
+            color: black;
+            font-family: 'Montserrat';
+            font-weight: 500;
+            padding-top: 30px;
+            line-height: 36px;
+            max-width: 90%;
+            text-align: center;
+            margin: auto;
+        }
+
+        .newCustomer-sec .row {
+            align-items: center;
+        }
+
+        .newCustomer-sec .main-head h2 {
+            font-size: 36px;
+            font-weight: 700;
+            color: #000000;
+        }
+
+        .inner-cust h4 {
+            font-size: 36px;
+            font-weight: 700;
+            color: black;
+        }
+
+        .inner-cust p {
+            padding: 40px 0px;
+            color: #000000;
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 36px;
+        }
+
+        .newCustomer-sec {
+            background-color: rgb(245, 245, 250);
+            padding: 100px 0px;
+        }
+
+        .newCustomer-sec figure {
+            text-align: center;
+        }
+
+        .customerslider .slick-dots li button {
+            background: #b8b8bb;
+            width: 20px;
+            height: 20px;
+            border-radius: 40px;
+        }
+
+        .customerslider .slick-dots {
+            justify-content: left;
+        }
+
+        .customerslider .slick-dots .slick-active button {
+            background: black;
+        }
+
+        .display-ads {
+            background: black;
+            padding: 100px 0px 80px;
+        }
+
+        .display-ads .main-head h2,
+        .display-ads .main-head p {
+            color: white;
+        }
+
+        .inner-display h4 {
+            font-size: 24px;
+            font-weight: 700;
+            font-family: 'Montserrat';
+            color: white;
+        }
+
+        .inner-display p {
+            font-size: 16px;
+            font-family: 'Montserrat';
+            font-weight: 400;
+            color: white;
+            padding-top: 25px;
+            padding-bottom: 10px;
+        }
+
+        .ad-ecplore:hover {
+            color: black;
+        }
+
+        .inner-display .ad-ecplore:hover {
+            color: white;
+        }
+
+        .plans-lpsec .main-head p {
+            max-width: 52%;
+        }
+
+        .price-box3 sup {
+            text-decoration: none !important;
+        }
+
+        .inner-data h4 {
+            font-size: 36px;
+            color: black;
+            font-weight: 700;
+            padding-bottom: 25px;
+        }
+
+        .inner-data p {
+            color: #000000;
+            font-size: 18px;
+            line-height: 36px;
+            font-family: 'Montserrat';
+            font-weight: 500;
+        }
+
+        .manage-expert {
+            padding: 100px 0px 60px;
+            border-bottom: 10px solid rgb(245, 245, 250);
+        }
+
+        .protect-data {
+            background-color: rgb(255, 238, 242);
+            padding: 90px 0 0;
+        }
+
+        .learnn-btn {
+            font-size: 16px;
+            color: white;
+            font-family: 'Muli';
+            font-weight: 600;
+            border-radius: 5px;
+            background-color: rgb(237, 51, 99);
+            width: 200px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+        }
+
+        .manage-expert .main-head p {
+            padding-bottom: 50px;
+        }
+
+        .learnn-btn:hover {
+            background: black;
+            color: white;
+        }
+
+        .banner-heading.lp-ban3 p {
+            max-width: 95%;
+        }
+
+        @media only screen and (max-width: 1700px) {
+
+            .imagess-sides {
+                right: 160px;
+
+            }
+        }
+
+        @media only screen and (max-width: 1600px) {
+            .imagess-sides {
+                right: 80px;
+            }
+        }
+
+        @media only screen and (max-width: 1445px) {
+            .imagess-sides {
+                right: 40px;
+                max-width: 770px;
+            }
+        }
+
+        @media only screen and (max-width: 1366px) {
+            .imagess-sides {
+                right: 0px;
+
+                max-width: 650px;
+            }
+
+            .banner-heading.lp-ban3 p {
+                max-width: 100%;
+            }
+
+            .main-head h2 {
+                font-size: 40px;
+
+            }
+
+            .inner-superr h4 {
+                font-size: 20px;
+
+                padding-top: 30px;
+            }
+
+            .ad-ecplore {
+                font-size: 15px;
+                padding-top: 20px;
+
+            }
+
+            .inner-superr p {
+                font-size: 15px;
+                line-height: 26px;
+            }
+          .price-body3>a {
+    padding: 10px 10px;
+}
+        }
+
+        @media only screen and (max-width: 1199.99px) {
+            .imagess-sides {
+                right: 0px;
+                max-width: 590px;
+                bottom: 70px;
+            }
+
+            .superpower-sec {
+                padding: 70px 0px;
+            }
+
+            .newCustomer-sec {
+                padding: 70px 0px;
+            }
+
+            .display-ads {
+                padding: 70px 0px;
+            }
+
+            .inner-cust h4 {
+                font-size: 30px;
+            }
+
+            .inner-cust p {
+                padding: 30px 0px;
+                font-size: 16px;
+                line-height: 30px;
+            }
+
+            .main-head p {
+                font-size: 16px;
+                padding-top: 20px;
+                line-height: 30px;
+
+            }
+
+            .inner-display p {
+                font-size: 14px;
+
+                padding-top: 15px;
+                padding-bottom: 10px;
+            }
+
+            .inner-display h4 {
+                font-size: 20px;
+            }
+
+            .protect-data {
+                padding: 60px 0 0;
+            }
+
+            .inner-data h4 {
+                font-size: 30px;
+                padding-bottom: 15px;
+            }
+
+            .inner-data p {
+                font-size: 16px;
+                line-height: 30px;
+
+            }
+
+            .inner-data .ad-ecplore {
+                padding-top: 0;
+            }
+
+            .manage-expert {
+                padding: 60px 0px;
+            }
+
+
+
+        }
+
+        @media only screen and (max-width: 991px) {
+            .imagess-sides {
+                display: none;
+            }
+
+            .inner-cust p {
+                padding: 10px 0px 0px;
+                font-size: 16px;
+            }
+
+            .inner-cust {
+                padding-top: 25px;
+                text-align: center;
+            }
+
+            .inner-cust .ad-ecplore {
+                padding-top: 0;
+            }
+
+            .customerslider .slick-dots {
+                justify-content: center;
+            }
+
+            .customerslider .slick-dots {
+                justify-content: center;
+                margin-top: 20px;
+            }
+
+            .superpower-sec {
+                padding: 50px 0px;
+            }
+
+            .newCustomer-sec {
+                padding: 50px 0px;
+            }
+
+            .inner-superr {
+                text-align: center;
+                padding: 15px;
+                border: 1px solid;
+                border-radius: 15px;
+                margin-bottom: 20px;
+                min-height: 450px;
+            }
+
+            .inner-superr p {
+                font-size: 14px;
+
+            }
+
+            .ad-ecplore {
+                font-size: 15px;
+                padding-top: 10px;
+            }
+
+            .superpower-sec .row {
+                justify-content: center;
+            }
+
+            .inner-cust h4 {
+                font-size: 26px;
+            }
+
+            .newCustomer-sec .main-head h2 {
+                font-size: 30px;
+
+            }
+
+            .main-head p {
+                font-size: 14px;
+                padding-top: 10px;
+                line-height: inherit;
+            }
+
+            .display-ads {
+                padding: 50px 0px;
+            }
+
+            .inner-display p {
+                line-height: inherit;
+                padding: 10px 0px;
+            }
+
+            .main-head h2 {
+                font-size: 30px;
+            }
+
+            .plans-lpsec .main-head p {
+                max-width: 90%;
+            }
+
+            .protect-data {
+                padding: 40px 0 0;
+                text-align: center;
+            }
+
+            .manage-expert {
+                padding: 40px 0px;
+            }
+
+            .manage-expert .main-head p {
+                padding-bottom: 40px;
+            }
+
+            /* .protect-data .col-lg-5 img{
+    display: none;
+} */
+
+            .inner-data h4 {
+                font-size: 26px;
+                padding-bottom: 5px;
+            }
+
+            .inner-data p {
+                font-size: 14px;
+
+            }
+
+            .main-head {
+                padding-bottom: 2rem;
+            }
+        }
+
+        @media only screen and (max-width: 767px) {
+            .inner-cust p {
+                font-size: 14px;
+                line-height: inherit;
+            }
+
+            .newCustomer-sec .main-head h2 {
+                font-size: 24px;
+            }
+
+            .inner-display {
+                text-align: center;
+                padding-bottom: 25px;
+            }
+
+            .inner-display .ad-ecplore {
+                padding-top: 0px;
+            }
+
+            .plans-lpsec .main-head p {
+                max-width: 100%;
+            }
+
+            .main-head {
+                padding-bottom: 1rem;
+            }
+            .superpower-sec {
+    padding: 35px 0px;
+}
+
+        }
+
+        @media only screen and (max-width: 576px) {
+            .newCustomer-sec .main-head h2 {
+                font-size: 20px;
+            }
+
+            .main-head p {
+                font-size: 12px;
+
+            }
+
+            .main-head h2 {
+                font-size: 24px;
+            }
+
+            .ad-ecplore {
+                font-size: 13px;
+
+            }
+
+            .inner-data h4 {
+                font-size: 22px;
+            }
+
+            .inner-data p {
+                font-size: 14px;
+                line-height: inherit;
+            }
+
+            .inner-data {
+                padding-bottom: 20px;
+            }
+
+            .manage-expert .main-head p {
+                padding-bottom: 20px;
+            }
+
+            .learnn-btn {
+                font-size: 14px;
+                width: 160px;
+                height: 40px;
+
+            }
+            .inner-superr p {
+    font-size: 12px;
+    line-height: inherit;
+}
+.inner-superr {   
+    padding: 10px;
+    margin-bottom: 20px;
+    min-height: auto;
+}
+.inner-superr h4 {
+    font-size: 20px;
+    padding-top: 15px;
+}
+        }
+
+        @media only screen and (max-width: 320px) {}
+/* affiliate-marketing page ends here */
+
+
+

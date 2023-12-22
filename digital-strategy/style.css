@@ -1,0 +1,2047 @@
+.custom-contt {
+        max-width: 1320px;
+    }
+
+    .strategy-banners {
+/*    background: url(../assets/assets/images/strategy/banner.jpg) no-repeat;*/
+    background: url(../assets/images/strategy/banner.jpg) no-repeat !important;
+    background-size: cover;
+    min-height: 990px;
+    background-position: center top;
+    padding-bottom: 100px;
+}
+    .bootom-bar ul {
+        list-style: none;
+        text-align: right;
+        margin-bottom: 0px;
+    }
+    .bootom-bar ul li {
+        display: inline-block;
+        border-right: 1px solid #828282;
+        padding: 0px 10px;
+    }
+    .bootom-bar ul li:last-child {
+        border-right: none;
+    }
+    .bootom-bar ul li a:hover {
+        color: #ee3364;
+    }
+
+    .trust-ban {
+padding-top: 40px;
+}
+
+    .trust-ban p {
+        color: white;
+        font-size: 18px !important;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+
+    .trust-ban ul {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+        margin-bottom: 0px;
+        padding-top: 20px;
+    }
+
+
+
+/* new package */
+
+.inner-price {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 25px 50px 0px rgba(250, 30, 85, 0.1);
+    border: 1px solid rgb(211, 213, 217);
+    padding: 30px 30px 40px;
+}
+
+.inner-price h3 {
+    font-size: 60px;
+    font-weight: 600;
+    color: #111727;
+}
+
+.inner-price h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111727;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+.inner-price p {
+    color: #4b525e;
+    font-size: 14px;
+    font-weight: 500;
+}
+.inner-price .main-btns {
+    padding: 10px 0px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.inner-price:hover .pkg_link{
+    /* border: 1px solid rgb(211, 213, 217); */
+    background: #ff3065;
+    color: white;
+
+}
+
+.inner-price .main-btns .btn_black {
+    border: 1px solid rgb(211, 213, 217);
+    background: white !important;
+    color: #111727;
+}
+
+
+
+.inner-price .content-mn h6 {
+    color: #111727;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+
+
+.inner-price .content-mn ul {
+    padding-top: 10px;
+}
+
+.inner-price .content-mn ul li {
+    font-size: 14px;
+    font-weight: 500;
+    color: #4b525e;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: baseline;
+}
+
+.inner-price .content-mn ul li i {
+    background: #ff3065;
+    display: inline-flex;
+    padding: 5px 5px;
+    width: 25px;
+    border-radius: 50%;
+    margin-right: 6px;
+    font-size: 14px;
+    flex: 0 0 25px;
+    text-align: center;
+    color: white;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-price h3 sup {
+    font-size: 16px;
+    font-weight: 700;
+    top: -30px;
+    text-decoration: line-through;
+}
+
+.inner-price .main-btns a {
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    height: 50px;
+    padding: 12px 0px;
+    display: flex;
+    background: #111727;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.inner-price:hover .btn_black {
+    background: #111727 !important;
+    color: white;
+}
+.inner-price:hover {
+    background: #111727;
+}
+
+.inner-price:hover h4 {
+    color: #ff3065;
+}
+
+.inner-price:hover h3 {
+    color: white;
+}
+
+.inner-price:hover p {
+    color: white;
+}
+
+.inner-price:hover .content-mn h6 {
+    color: white;
+}
+
+.inner-price:hover .content-mn ul li {
+    color: white;
+}
+.inner-price .content-mn ul{
+    height: 220px;
+    overflow: auto;
+    overflow-anchor: initial;
+    padding-right: 10px
+}
+.inner-price .content-mn ul::-webkit-scrollbar {
+    height: 100px;
+    width: 10px;
+    background: #000;
+    border-radius: 16px
+}
+
+.inner-price .content-mn ul::-webkit-scrollbar-track {
+    color: #000;
+    border-radius: 16px
+}
+
+.inner-price .content-mn ul::-webkit-scrollbar-thumb {
+    background-color: #babac0;
+    border-radius: 16px;
+    border: 5px solid #c62b60
+}
+.packPort-inner {
+    margin-bottom: 15px;
+}
+.strat-main h1 {
+    color: #ed2f64;
+    font-size: 200px;
+    font-weight: 800;
+    font-family: 'Montserrat';
+    letter-spacing: -5px;
+}
+
+.strat-main h4 {
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Montserrat';
+    line-height: 60px;
+    padding-bottom: 20px;
+}
+
+.strat-main p {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    line-height: initial;
+}
+
+.strat-main ul {
+    list-style: disc !important;
+    padding-bottom: 15px;
+}
+.strat-main ul li {
+    font-size: 24px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.strat-main ul li::marker {
+    color: #eb2d65;
+    font-size: 24px;
+}
+.what-strategy {
+    padding: 100px 0px;
+}
+.inner-strategy h4 {
+    font-size: 68px;
+    font-weight: 700;
+    color: #000;
+    line-height: initial;
+}
+.inner-strategy p {
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    line-height: initial;
+    padding-top: 30px;
+}
+.outsource-sec{
+    padding: 100px 0px;
+    background: #ef0a6a;
+}
+
+.sources-txt h4 {
+    font-size: 72px;
+    color: white;
+    font-weight: 700;
+    max-width: 80%;
+}
+.inner-sources p {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    max-width: 46%;
+    line-height: inherit;
+}
+.inner-sources {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 0px;
+}
+.inner-sources p+img {
+    margin-top: -120px;
+}
+
+.plans-lpsec {
+    background: #f5f5fa;
+}
+.inner-price {
+    position: relative;
+}
+
+.inner-price .selr-strat {
+    background: #ffbb00;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    padding: 5px 10px;
+    border-radius: 30px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.ignite-sec{
+    padding: 100px 0px;
+}
+.ignite-txt {
+    padding: 30px 30px 45px;
+    border-radius: 10px;
+    background-color: rgb(245, 245, 250);
+}
+
+.ignite-txt img {
+    padding-bottom: 20px;
+}
+
+.ignite-txt h5 {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    color: black;
+}
+.result-head h4 {
+    font-size: 60px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Montserrat';
+}
+
+.result-head {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.result-head p {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 500;
+    max-width: 50%;
+}
+.results-mn p.para-afford {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+    max-width: 60%;
+    margin: auto;
+    padding-top: 30px;
+}
+.digit-services{
+    padding: 100px 0px;
+    background: #111727;
+}
+.digit-services .main-head h2 {
+    color: white;
+}
+
+.digit-services .main-head span {
+    font-size: 90px;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    line-height: initial;
+}
+.inner-digit h4 {
+    font-size: 48px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    padding-bottom: 10px;
+}
+
+.inner-digit p {
+    font-size: 24px;
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    line-height: inherit;
+}
+.sd-digits {
+    text-align: end;
+}
+
+.sd-digits img ,
+.sd-second img {
+    border-radius: 10px;
+}
+.digit-services .row {
+    padding: 90px 0px;
+    border-bottom: 1px solid white;
+    align-items: center;
+}
+
+.digit-services .row+.row {
+    border: none;
+    padding-bottom: 0;
+}
+.digit-cta{
+    background: #ef0a6a;
+    padding: 100px 0;
+}
+
+.side-btn a {
+    font-size: 24px;
+    color: var(--white);
+    font-weight: 600;
+    position: relative;
+    font-family: 'Montserrat';
+    display: inline-block;
+}
+
+.cta-sec .row {
+    align-items: center;
+}
+
+.side-btn a i {
+    position: relative;
+    z-index: 1;
+    color: #ef0a6a;
+    font-size: 32px;
+}
+
+.side-btn a span {
+    width: 80px;
+    height: 80px;
+    display: inline-flex;
+    background: #ffffff;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.side-btn a span:before {
+    content: '';
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    animation: rounder1 2s linear 2s infinite alternate;
+    background: #ededed6e;
+}
+/* .side-btn a span:after {
+    content: '';
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    animation: rounder2 2s linear 2s infinite alternate;
+    background: #f3478f;
+} */
+
+@keyframes rounder1 {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.39);
+    }
+}
+
+@keyframes rounder2 {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.69);
+    }
+}
+
+@keyframes rounder3 {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.99);
+    }
+}
+.inner-digitcta h4 {
+    font-size: 72px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    padding-bottom: 10px;
+}
+
+.inner-digitcta p {
+    font-size: 24px;
+    color: white;
+    font-family: 'Montserrat';
+    line-height: inherit;
+}
+.digit-cta .row {
+    align-items: center;
+}
+.process-digit {
+    background: #f5f5fa;
+    padding: 100px 0px;
+}
+.process-header h2 {
+    font-size: 100px;
+    color: #de0164;
+}
+
+.process-header span {
+    font-weight: 700;
+    font-size: 36px;
+    font-family: 'Montserrat';
+    color: black;
+    display: block;
+    padding-bottom: 15px;
+}
+
+.process-header p {
+    font-size: 24px;
+    color: black;
+    font-family: 'Montserrat';
+    line-height: inherit;
+    max-width: 90%;
+}
+.v-accordian .offer-tabs {
+    width: 100%;
+    border: 1px solid #3a3c42;
+}
+.v-accordian .offer-tabs .offerItem.active {
+    max-width: 100%;
+    background: #111727;
+}
+.v-accordian .offer-tabs .offerItem {
+    counter-increment: e;
+    transition: all .3s ease;
+}
+
+.v-accordian .offer-tabs .offerItem {
+    display: flex;
+    align-items: flex-end;
+    max-height: 770px;
+    border-right: 1px solid #3a3c42;
+    width: 100%;
+    max-width: 135px;
+    transition: all .5s ease;
+    overflow: hidden;
+    counter-reset: sub;
+    counter-increment: d;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header {
+    width: 100%;
+    max-width: 120px;
+    height: 100%;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+    transition: all .5s ease;
+}
+.v-accordian .offer-tabs .offerItem.active .v-accordian-header .v-accordian-title .offerItemTitle {
+    color: white;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    color: black;
+    writing-mode: vertical-rl;
+    text-orientation: revert-layer;
+    transform: rotate(180deg);
+    height: 100%;
+    padding: 40px;
+    text-decoration: none;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle span {
+    display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.v-accordian .offer-tabs .offerItem .offer-detail p {
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    line-height: inherit;
+}
+.v-accordian .offer-tabs .offerItem.active .offer-detail p {
+    color: white;
+}
+.v-accordian .offer-tabs .offerItem.active .offer-detail {
+    background: #111727;
+    color: white;
+}
+
+
+.v-accordian .offer-tabs .offerItem.active .offer-detail p {
+    color: white;
+}
+
+.v-accordian .offer-tabs .offerItem .offer-detail p {
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    line-height: inherit;
+}
+.v-accordian .offer-tabs .offerItem .offer-detail {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 120px);
+    overflow: hidden;
+    transition: all .5s ease;
+    min-width: 380px;
+    height: 100%;
+    padding: 80px 100px 80px 40px;
+    color: #16171a;
+    position: relative;
+    background-color: #fff;
+}
+.v-accordian .position-relative {
+    z-index: 1;
+}
+.v-accordian .offer-tabs .offerItem {
+    counter-increment: e;
+    transition: all .3s ease;
+}
+.v-accordian .offer-tabs .offerItem {
+    display: flex;
+    align-items: flex-end;
+    max-height: 600px;
+    border-right: 1px solid #3a3c42;
+    width: 100%;
+    transition: all .5s ease;
+    overflow: hidden;
+    padding-right: 0;
+}
+.v-accordian .offer-tabs .offerItem {
+    counter-increment: e;
+    transition: all .3s ease;
+}
+.v-accordian .offer-tabs .offerItem:last-child {
+    border-right: 0;
+}
+.why-digits{
+    padding: 100px 0;
+}
+.why-inner h4 {
+    font-size: 36px;
+    font-weight: 700;
+    color: black;
+}
+
+.why-inner {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid black;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.why-inner p {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    color: black;
+    max-width: 57%;
+
+}
+.digit-contact {
+    background: #ed3163;
+    padding-top: 60px;
+}
+
+
+
+.inner-cntct h2 {
+    text-align: center;
+    font-size: 72px;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 0px;
+}
+
+.inner-cntct {
+    text-align: center;
+}
+
+.inner-cntct .contact-journey {
+    font-size: 60px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    background: #111727;
+    justify-content: center;
+    padding: 10px 60px;
+    border-radius: 25px;
+    position: relative;
+    bottom: -40px;
+}
+
+.inner-cntct .contact-journey i {
+    color: #eb2f64;
+}
+
+.inner-cntct .contact-journey:hover {
+    background: black;
+    color: white;
+}
+/* new package */
+
+/* new section css start  */
+.brand-needs {
+    background: #f5f5fa;
+    padding: 100px 0 150px;
+}
+
+.brand-needs .main-head h2 {
+    margin-bottom: 15px;
+}
+
+.brand-needs .main-head p {
+    font-size: 24px;
+    color: black;
+    font-weight: 500;
+    max-width: 75%;
+    margin: auto;
+}
+
+.inner-needstxt {
+    background-color: rgb(255, 255, 255);
+    padding: 45px 50px;
+    display: flex;
+    align-items: flex-start;
+    gap: 0px 15px;
+    margin: 10px 15px;
+    margin-bottom: 30px;
+    min-height: 250px;
+}
+
+.mn-needs h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.mn-needs p {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+    font-family: 'Montserrat';
+    line-height: 1.7;
+}
+
+.brandneed-slider .slick-dots li.slick-active button {
+    border-radius: 50%;
+    width: 15px;
+}
+
+.brandneed-slider .slick-dots li button {
+    background-color: rgb(237, 51, 99);
+    width: 30px;
+    height: 15px;
+    opacity: 0.6;
+    border-radius: 10px;
+}
+.digital-tactics {
+    background: #111727;
+    padding: 100px 0;
+}
+
+.digital-tactics .row {
+    justify-content: space-between;
+}
+
+.inner-tactics h4 {
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.inner-tactics h4 span {
+    color: #ed3363;
+}
+
+.inner-tactics p {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    line-height: 36px;
+}
+.strategy-identity {
+    background: #ef0a6a;
+    padding: 70px 0;
+}
+
+.strategy-identity .main-head {
+    padding: 0;
+}
+
+.strategy-identity .main-head h2 {
+    color: white;
+    font-size: 72px;
+}
+.holistic-content {
+    background: #111727;
+    padding: 100px 0px;
+}
+
+.holistic-content .main-head h2 {
+    color: white;
+    font-size: 72px;
+}
+
+.holistic-content .main-head h2 span {
+    font-size: 72px;
+    font-weight: 700;
+    font-weight: 700;
+}
+.inner-holistic {
+    padding: 70px 70px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+}
+
+.inner-holistic h6 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.inner-holistic ul li {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.inner-holistic ul {
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.inner-holistic ul li::marker {
+    color: #E91E63;
+    font-size: 20px;
+}
+.what-strategy-offer {
+    padding: 100px 0;
+}
+.inner-strats {
+    text-align: center;
+    position: relative;
+    padding: 30px 15px;
+    border-bottom: 2px solid #111727;
+}
+.inner-strats:after {
+    content: '';
+    position: absolute;
+    background: #111727;
+    width: 2px;
+    height: 140%;
+    right: 0;
+    top: 0px;
+}
+.inner-strats img {
+    margin-bottom: 20px;
+}
+
+.inner-strats h6 {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+.what-strategy-offer .row div:nth-child(even) .inner-strats {
+   border-bottom: none;
+   margin-top: 100px;
+}
+.what-strategy-offer .row div:nth-child(even) .inner-strats:after{
+    top: -100px;
+}
+.inner-holistic a.thm-btn.mini-btn.brd-rd3 {
+    width: 100%;
+    text-align: center;
+}
+/* new section css end */
+
+/* ==========================================responsive css start===========================================  */
+    @media (max-width: 1700px){
+        .inner-price .main-btns a {
+    width: 100%;
+}
+.strat-main h1 {
+
+    font-size: 160px;
+
+    letter-spacing: 0px;
+}
+.inner-digit h4 {
+    font-size: 45px;
+
+}
+
+
+.digit-services .main-head span {
+    font-size: 75px;
+   
+}
+    }
+
+    @media (max-width: 1600px) {
+        .Customcard-inner h4 {
+            font-size: 40px;
+            line-height: 55px;
+        }
+        .ignite-txt h5 {
+    font-size: 22px;
+    
+}
+.inner-strats {
+    padding: 20px 5px;
+;
+}
+.inner-tactics h4 {
+
+    font-size: 50px;
+    
+}
+.v-accordian .offer-tabs .offerItem .offer-detail {
+    min-width: 340px;
+    padding: 80px 100px 80px 10px;
+
+}
+.process-header p {
+    font-size: 22px;
+    max-width: 100%;
+} 
+.inner-cntct .contact-journey {
+    font-size: 45px;
+    padding: 10px 30px;
+}
+.inner-cntct h2 {
+
+    font-size: 60px;
+    
+}
+.inner-needstxt {
+padding: 45px 40px;
+ 
+}
+.mn-needs h4 {
+
+    margin-bottom: 15px;
+}
+.strategy-identity .main-head h2 {
+    font-size: 60px;
+}
+.inner-holistic h6 {
+    font-size: 32px;
+   
+}
+.inner-holistic {
+    padding: 50px 50px;
+ 
+}
+    }
+
+    @media (max-width: 1445px) {
+        .Customcard-inner h4 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .inner-holistic {
+    padding: 40px 30px;
+}
+.inner-strats {
+
+    padding: 20px 10px;
+   
+}
+.inner-strats h6 {
+    font-size: 20px;
+
+}
+.inner-holistic h6 {
+    font-size: 27px;
+}
+.holistic-content .main-head h2,
+.holistic-content .main-head h2 span {
+
+    font-size: 60px;
+}
+        .inner-tactics h4 {
+    font-size: 40px;
+}
+.inner-tactics p {
+    font-size: 20px;
+    line-height: 30px;
+}
+        .inner-digitcta h4 {
+    font-size: 60px;
+ 
+}
+.process-header h2 {
+    font-size: 80px;
+
+}
+.inner-digitcta p {
+    font-size: 22px;
+    
+}
+.mn-needs p {
+    font-size: 16px;
+    line-height: 30px;
+}
+.mn-needs h4 {
+    font-size: 21px;
+
+}
+.inner-needstxt {
+    padding: 40px 35px;
+    min-height: 260px;
+}
+
+.brand-needs .main-head p {
+    font-size: 20px;
+    max-width: 85%;
+ 
+}
+.side-btn a {
+    font-size: 18px;
+
+    display: inline-flex;
+    align-items: baseline;
+}
+.v-accordian .offer-tabs {
+ 
+    width: 920px;
+}
+.side-btn a i {
+    font-size: 30px;
+}
+        .digit-services .main-head span {
+    font-size: 60px;
+}
+.inner-digit h4 {
+    font-size: 35px;
+}
+.inner-digit p {
+    font-size: 20px;
+   
+}
+.digit-services .row {
+    padding: 50px 0px;
+  
+}
+        .Customcard-inner p {
+            font-size: 16px;
+            line-height: 30px;
+        }
+        .v-accordian .offer-tabs .offerItem .offer-detail {
+    width: calc(100% - 100px);
+    min-width: 320px;
+}
+.inner-sources p {
+    font-size: 20px;
+    max-width: 100%;
+    
+}
+.sources-txt h4 {
+    font-size: 60px;
+    max-width: 80%;
+}
+
+.strat-main h1 {
+    font-size: 130px;
+  
+}
+.result-head p {
+    font-size: 20px;
+    max-width: 60%;
+}
+.result-head h4 {
+    font-size: 50px;
+    
+}
+
+
+.strat-main h4 {
+    font-size: 50px;
+    line-height: initial;
+}
+.strat-main p {
+    font-size: 25px;
+
+}
+      
+     
+
+        .sm-afford {
+            padding: 10px 20px;
+        }
+        .pack-headd h2 {
+font-size: 50px;
+}
+.inner-price p {
+    font-size: 12px;
+ 
+}
+
+.inner-price h3 {
+    font-size: 50px;
+}
+.inner-price {
+    padding: 20px 10px 20px;
+    margin-bottom: 20px;
+
+}
+.inner-price .main-btns a {
+    width: 100%;
+    font-size: 14px;
+}
+.inner-sources p {
+    font-size: 18px;
+    max-width: 100%;
+}
+.inner-sources p+img {
+    margin-top: -70px;
+}
+.why-inner p {
+    font-size: 16px;
+    max-width: 58%;
+}
+.why-inner h4 {
+    font-size: 30px;
+        
+}
+.why-inner {
+    gap: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.strategy-identity .main-head h2 {
+    font-size: 50px;
+}
+    }
+    @media (max-width: 1366px) {
+    .pack-headd h2 {
+font-size: 40px;
+}
+.v-accordian .offer-tabs {
+    width: 100%;
+}
+.process-header h2 {
+    font-size: 70px;
+}
+.ignite-txt h5 {
+    font-size: 20px;
+}
+.strategy-banners {
+    min-height: 800px;
+    padding-bottom: 50px;
+
+}
+.mn-needs h4 {
+    font-size: 19px;
+}
+.brand-needs {
+
+    padding: 80px 0 100px;
+}
+.inner-sources p+img {
+    margin-top: -50px;
+}
+.apparel-banner p {
+font-size: 18px;
+}
+.v-accordian .offer-tabs .offerItem {
+    max-width: 100px;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header {
+    max-width: 100px;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-left: 26px;
+    padding-right: 26px;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header {
+    max-width: 100px;
+}
+
+.strat-main ul li {
+    font-size: 20px;
+ 
+}
+.results-mn p.para-afford {
+    font-size: 20px;
+    max-width: 80%;
+  
+}
+.ignite-txt {
+    min-height: 240px;
+}
+.ignite-txt h5 {
+    font-size: 18px;
+}
+.ignite-txt {
+    min-height: 210px;
+}
+.result-head h4 {
+    font-size: 40px;
+}
+}
+    @media (max-width: 1199.99px) {
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 2.5rem;
+            color: #fff;
+        }
+        .holistic-content .main-head h2, .holistic-content .main-head h2 span {
+    font-size: 50px;
+}
+.holistic-content {
+ 
+    padding: 70px 0px;
+}
+.inner-holistic ul li {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+        .strategy-identity {
+   
+    padding: 50px 0;
+}
+        .digital-tactics {
+
+    padding: 80px 0;
+}
+        .inner-needstxt {
+    padding: 30px 35px;
+    min-height: 290px;
+}
+        .strat-main ul {
+  
+    padding-left: 20px;
+}
+        .v-accordian .offer-tabs .offerItem .v-accordian-header {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-left: 28px;
+    padding-right: 28px;
+    transform: none;
+    white-space: normal;
+    writing-mode: unset;
+    text-orientation: unset;
+    width: 100%;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-left: 28px;
+    padding-right: 28px;
+    transform: none;
+    white-space: normal;
+    writing-mode: unset;
+    text-orientation: unset;
+    width: 100%;
+}
+.inner-strategy h4 {
+    font-size: 55px;
+   
+}
+.inner-strategy p {
+    font-size: 20px;
+    padding-top: 20px;
+}
+        .cta-apparels .doorstep-mn h4 {
+            font-size: 16px;
+            color: #fff;
+        }
+
+        .cta-apparels .doorstep-mn span {
+            font-size: 36px;
+        }
+
+        .pack-headd .lbn-btns a {
+            padding: 1.1rem;
+            min-width: 220px;
+        }
+
+        .inner-price .main-btns a {
+    width: 100% ;
+}
+.v-accordian .offer-tabs {
+    display: block!important;
+}
+.v-accordian .offer-tabs .offerItem {
+    max-width: 100%;
+    min-height: 1px;
+    max-height: unset;
+    display: block;
+    height: auto;
+    flex: unset;
+    border: 0;
+    border-bottom: 1px solid #3a3c42;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+.what-strategy {
+    padding: 70px 0px;
+}
+.outsource-sec ,
+.digit-services ,
+.digit-cta ,
+.process-digit ,
+.why-digits ,
+.ignite-sec {
+    padding: 70px 0px;
+   
+}
+    }
+    @media (max-width: 991.98px) {
+        .pack-headd .lbn-btns {
+            display: unset;
+        }
+        .inner-strats:after{
+            display: none;
+        }
+        .what-strategy-offer .row div:nth-child(even) .inner-strats {
+    border-bottom: 2px solid black;
+    margin-top: 0;
+}
+.inner-strats {
+    padding: 20px 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+        .inner-digitcta h4 {
+    font-size: 50px;
+}
+.holistic-content {
+    padding: 50px 0px;
+}
+.inner-holistic {
+    padding: 30px 30px;
+    margin-bottom: 30px;
+}
+.inner-holistic ul {
+    padding-top: 0px;
+    padding-left: 10px;
+}
+.holistic-content .main-head h2, .holistic-content .main-head h2 span {
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.what-strategy-offer {
+    padding: 60px 0;
+}
+.what-strategy-offer .row {
+    justify-content: center;
+}
+.holistic-content .main-head h2 br {
+ display: none;
+}
+.digital-tactics {
+ 
+    padding: 50px 0;
+}
+.strategy-identity .main-head h2 {
+    font-size: 40px;
+}
+.strategy-identity .main-head h2 {
+    font-size: 30px;
+}
+.inner-tactics h4 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.digital-tactics .col-lg-5 {
+    text-align: center;
+
+}
+.inner-tactics p {
+    font-size: 18px;
+    line-height: inherit;
+}
+.inner-tactics {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.inner-needstxt {
+    padding: 30px 30px;
+    min-height: 250px;
+}
+.brand-needs .main-head p {
+    font-size: 18px;
+    max-width: 100%;
+}
+.brand-needs {
+    padding: 50px 0;
+}
+.mn-needs p {
+    font-size: 14px;
+    line-height: inherit;
+}
+.mn-needs h4 {
+    font-size: 17px;
+}
+.process-header h2 {
+    font-size: 60px;
+}
+.inner-cntct h2 {
+    font-size: 45px;
+}
+.inner-cntct .contact-journey {
+    font-size: 36px;
+    padding: 10px 30px;
+    bottom: -20px;
+}
+.process-header {
+    text-align: center;
+}
+.process-header p {
+    font-size: 18px;
+   
+}
+.process-header span {
+   
+    font-size: 30px;
+   
+}
+.inner-digitcta h4 br {
+    display: none;
+}
+.digit-cta {
+    text-align: center;
+}
+        .digit-services .row:nth-child(2) {
+    flex-direction: column-reverse;
+}
+        .sd-digits, .sd-second {
+    text-align: center;
+}
+.digit-services .row {
+    padding: 30px 0px;
+    border: none;
+}
+.digit-services .main-head span {
+    font-size: 50px;
+}
+.sd-digits img, .sd-second img {
+   
+    width: 100%;
+}
+.inner-digit {
+    padding: 15px 0px;
+}
+        .ignite-txt {
+    min-height: auto;
+    margin-bottom: 20px;
+}
+.result-head h4 {
+    font-size: 30px;
+}
+.result-head {
+    flex-direction: column;
+    gap: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.result-head p {
+    max-width: 100%;
+    font-size: 18px;
+}
+.results-mn p.para-afford {
+    max-width: 100%;
+    font-size: 18px;
+    padding-top: 10px;
+}
+        .strategy-banners {
+    background: #0a0b52;
+
+    min-height: auto;
+    padding-bottom: 50px;
+}
+.what-strategy img {
+    width: 100%;
+}
+.strat-main ul {
+    padding-left: 0px;
+    display: inline-flex;
+    gap: 0px 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+.inner-sources img {
+    display: none;
+}
+.outsource-sec {
+    padding: 50px 0px;
+
+}
+.inner-strategy h4 {
+    font-size: 45px;
+}
+.inner-strategy p {
+    font-size: 18px;
+    padding-top: 10px;
+}
+.strat-main ul li::marker{
+    font-size: 0px;
+}
+        .cta-apparels .doorstep-mn h2 {
+            line-height: initial;
+        }
+        .strat-main ul li {
+    font-size: 18px;
+    position: relative;
+    padding: 0 10px;
+}
+.strat-main ul li:before {
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: deeppink;
+    border-radius: 50%;
+    top: 10px;
+    left: -8px;
+}
+.what-strategy {
+    padding: 50px 0px;
+}
+.strat-main h1 {
+    font-size: 100px;
+}
+.strat-main h4 {
+    font-size: 40px;
+    line-height: initial;
+}
+        .cta-apparels .doorstep-mn span {
+            font-size: 30px;
+        }
+
+        .packadorp .main-head p {
+            max-width: 100%;
+        }
+        .v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 22px;
+    line-height: 31px;
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 22px;
+    line-height: 31px;
+}
+.v-accordian .offer-tabs .offerItem .offer-detail {
+    width: 100%;
+    min-width: 1px;
+    padding: 0 28px 28px;
+    height: auto;
+    transition: none;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -.15px;
+}
+
+        .cta-apparels {
+            background: #fa7441 !important;
+        }
+
+  
+
+        .sm-afford span {
+            font-size: 26px;
+        }
+
+        .trust-ban {
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .trust-ban p {
+            font-size: 14px !important;
+        }
+
+        .sm-afford {
+            min-height: auto;
+        }
+
+        .collab-handle {
+            min-height: auto;
+        }
+
+        .Customcard-inner {
+            text-align: center;
+        }
+        .slider-nav-custom .slick-dots {
+            justify-content: center;
+        }
+
+        .slider-nav-custom .slick-dots {
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .buissness-card-banner {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.apparel-banner p {
+font-size: 16px;
+}
+.pack-headd h2 {
+font-size: 35px;
+}
+.buss-proceed-box {
+border: 1px solid #b8b8bb;
+}
+.buss-how-we-proceed .row>div:last-child .buss-proceed-box{
+
+border: 1px solid #b8b8bb;
+}
+.buss-proceed-box img {
+margin: 0;
+margin-bottom: 20px;
+}
+.buss-proceed-box h3 {
+font-size: 22px;
+
+}
+.portfolio-sec .nav-tabs {
+justify-content: center;
+}
+.trust-ban ul {
+justify-content: center;
+}
+.combo-sd {
+display: none;
+}
+.combo-Offer{
+background: #fbc711;
+padding: 40px 0;
+}
+.sources-txt h4 {
+    font-size: 50px;
+    max-width: 100%;
+}
+.digit-services ,
+.digit-cta ,
+.process-digit ,
+.why-digits ,
+.ignite-sec {
+    padding: 50px 0px;
+   
+}
+.why-inner h4 {
+    font-size: 24px;
+}
+.why-inner p {
+    font-size: 16px;
+    max-width: 68%;
+}
+.inner-holistic ul li {
+    font-size: 14px;
+   
+}
+
+    }
+    @media (max-width: 767px) {
+        .cta-apparels .doorstep-mn span {
+            font-size: 20px;
+        }
+        .strategy-identity .main-head h2 {
+    font-size: 25px;
+}
+
+.holistic-content .main-head h2, .holistic-content .main-head h2 span {
+    font-size: 30px;
+
+}
+.inner-holistic h6 {
+    font-size: 24px;
+}
+
+
+        .digit-services .row {
+    padding: 20px 0px 20px;
+    border: none;
+}
+.process-header h2 {
+    font-size: 50px;
+}
+.inner-needstxt {
+    padding: 20px 20px;
+    min-height: auto;
+}
+.brand-needs .main-head p {
+    font-size: 16px;
+    max-width: 100%;
+}
+.process-header span {
+    font-size: 24px;
+}
+.process-header h2 {
+    font-size: 40px;
+}
+.inner-digitcta h4 {
+    font-size: 40px;
+}
+.inner-digitcta p {
+    font-size: 18px;
+}
+.side-btn a span {
+    width: 60px;
+    height: 60px;
+  
+}
+.side-btn a span:before {
+    width: 70px;
+    height: 70px;
+
+}
+        .sources-txt h4 {
+    font-size: 40px;
+ 
+}
+.digit-services .main-head span {
+    font-size: 40px;
+}
+.inner-digit h4 {
+    font-size: 30px;
+}
+.inner-digit p {
+    font-size: 18px;
+}
+.inner-sources p {
+    font-size: 16px;
+    
+}
+.why-inner {
+    gap: 0px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    flex-direction: column;
+    text-align: initial;
+    align-items: baseline;
+}
+.why-inner p {
+    font-size: 15px;
+    max-width: 100%;
+}
+.why-inner h4 br {
+    display: none;
+}
+
+        .what-strategy img {
+    display: none;
+}
+        .Customcard-inner h4 {
+            font-size: 24px;
+            line-height: 36px;
+        }
+
+        .Customcard-inner p {
+            font-size: 14px;
+            line-height: 24px;
+        }
+        .trust-ban {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .strat-main h1 {
+    font-size: 80px;
+}
+.inner-strategy h4 {
+    font-size: 33px;
+}
+.strat-main h4 {
+    font-size: 30px;
+
+}
+.strat-main ul li {
+    font-size: 16px;
+    
+}
+        .pack-headd h2 {
+font-size: 32px;
+}
+.portfolio-sec .nav-tabs {
+justify-content: flex-start;
+}
+
+
+.inner-price h3 {
+    font-size: 40px;
+}
+.inner-price .main-btns {
+    padding: 10px 0px 10px;
+}
+.inner-price h4 {
+    font-size: 20px;
+}
+.inner-cntct h2 {
+    font-size: 30px;
+}
+.inner-cntct .contact-journey {
+    font-size: 22px;
+    padding: 10px 20px;
+    bottom: -20px;
+    border-radius: 15px;
+}
+.digit-contact {
+    padding-top: 40px;
+}
+.slick-slider .slick-dots{
+    margin-top: 0px;
+}
+.inner-tactics h4 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.inner-tactics p {
+    font-size: 16px;
+  
+}
+
+    }
+    @media (max-width: 575.98px) {
+        .Customcard-inner h4 {
+            font-size: 18px;
+            line-height: 30px;
+        }
+        .inner-holistic h6 {
+    font-size: 20px;
+}
+
+.inner-holistic ul li {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.inner-holistic ul li::marker {
+    color: #E91E63;
+    font-size: 17px;
+}
+        .strategy-identity .main-head h2 {
+    font-size: 20px;
+}
+.strategy-identity {
+    padding: 30px 0;
+}
+        .result-head p {
+  
+    font-size: 14px;
+}
+.brand-needs .main-head p {
+    font-size: 13px;
+
+}
+.process-header p {
+    font-size: 14px;
+}
+.process-header span {
+    font-size: 20px;
+}
+.inner-cntct .contact-journey {
+    font-size: 14px;
+    padding: 10px 10px;
+    width: 100%;
+    bottom: 0px;
+    border-radius: 15px;
+    gap: 5px;
+}
+.digit-contact {
+    padding-bottom: 20px;
+}
+.inner-cntct h2 {
+    font-size: 24px;
+}
+.inner-tactics h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.inner-tactics p {
+    font-size: 14px;
+   
+}
+.v-accordian .offer-tabs .offerItem .v-accordian-header .v-accordian-title .offerItemTitle {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    line-height: inherit;
+}
+.v-accordian .offer-tabs .offerItem .offer-detail p {
+    font-size: 14px;
+  
+}
+.why-inner {
+
+    padding-bottom: 10px;
+    padding-top: 25px;
+
+}
+.why-inner h4 {
+    font-size: 20px;
+}
+.why-inner p {
+    font-size: 13px;
+   
+}
+.inner-digitcta h4 {
+    font-size: 25px;
+}
+.inner-digitcta p {
+    font-size: 16px;
+}
+.side-btn a {
+    font-size: 12px;
+    display: inline-flex;
+    align-items: baseline;
+}
+.side-btn a span {
+    width: 50px;
+    height: 50px;
+}
+.side-btn a span:before {
+    width: 60px;
+    height: 60px;
+}
+.side-btn a i {
+    font-size: 20px;
+}
+.inner-digit h4 {
+    font-size: 20px;
+}
+.results-mn p.para-afford {
+    max-width: 100%;
+    font-size: 15px;
+}
+        .cta-apparels .doorstep-mn h2 {
+            font-size: 20px;
+        }
+        .sources-txt h4 {
+    font-size: 30px;
+}
+.inner-sources p {
+    font-size: 14px;
+}
+.what-strategy {
+    padding: 30px 0px;
+}
+
+        .sm-afford h4 {
+            font-size: 16px;
+        }
+        .inner-strategy h4 {
+    font-size: 24px;
+}
+.inner-strategy p {
+    font-size: 16px;
+
+}
+.digit-services .main-head span {
+    font-size: 26px;
+}
+.inner-digit p {
+    font-size: 14px;
+}
+
+        .sm-afford span {
+            font-size: 20px;
+        }
+
+        .packPort-inner {
+            text-align: center;
+        }
+        .pack-headd h2 {
+font-size: 28px;
+}
+.apparel-banner p {
+font-size: 14px;
+}
+.Customcard-inner span {
+font-size: 14px;
+padding-top: 10px;
+}
+.main-head {
+padding-bottom: 0rem;
+}
+.strat-main h1 {
+    font-size: 50px;
+}
+.strat-main h4 {
+    font-size: 24px;
+    padding-bottom: 0px;
+}
+.strat-main ul li {
+    font-size: 13px;
+    padding: 0 5px;
+}
+.mn-needs p {
+    font-size: 12px;
+    line-height: inherit;
+}
+.mn-needs h4 {
+    font-size: 15px;
+}
+.inner-needstxt {
+    padding: 15px 15px;
+
+}
+    }
