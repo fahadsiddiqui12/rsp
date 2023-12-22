@@ -10144,9 +10144,13 @@ section.serious-sec.combo-cta{
 }
 
 .apparel-banner.logo-illustration-banner {
-    background: url(../assets/images/logo-illustrate/banner.jpg) no-repeat !important;
+    background: url(../images/logo-illustrate/banner.jpg) no-repeat !important;
 }
-
+.logo-illustration-banner .buissness-card-banner img {
+    display: block !important;
+    visibility: visible;
+    transition: 0.5s;
+}
 .buissness-card-banner img {
     display: none !important;
     visibility: hidden;
@@ -12127,7 +12131,7 @@ section.cta-1.domain-cta h2 {
 
 /* content-development page starts here */
 
- section.mainbanner-sec.content-ban {
+ section.mainbanner-sec.content-ban.content-dev-ban {
     background-image: url(../images/new-banners/content/banner.png);
     background-size: cover;
     background-position: top;
@@ -13415,4 +13419,104 @@ section.mainbanner-sec.content-ban {
 /* affiliate-marketing page ends here */
 
 
+/* terms-and-conditions page starts here */
 
+.portfolio-ban.testimonial-banner {height: 450px;min-height: auto;}
+.portfolio-ban.testimonial-banner .page-title {margin-top: 0px;text-align: center;padding-top: 200px;}
+.terms-sec {padding: 100px 0px;}
+
+/* terms-and-conditions page ends here */
+
+
+/* sitemap page starts here */
+
+.all-serv {
+    min-height: 600px !important;
+    background: url(../images/services-banner.jpg) no-repeat !important;
+    background-size: cover !important;
+    background-position: bottom center !important;
+}
+
+.all-serv {
+    text-align: center;
+}
+
+
+.serv-innerr h4:hover a {
+    color: #ee3364;
+    text-decoration: underline;
+}
+
+.serv-innerr ul li a:hover {
+    color: #ee3364;
+    text-decoration: underline;
+}
+
+.serv-innerr ul li a {
+    display: block;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}
+
+.serv-innerr ul li {
+    margin-bottom: 10px;
+}
+
+.serv-innerr h4 {
+    padding-bottom: 20px;
+    font-size: 24px;
+    transition: 0.5s;
+    border-bottom: 1px solid #bae0fb;
+}
+
+.serverr-main {
+    padding: 100px 0px 0px;
+}
+
+.serv-innerr h4 a {
+    display: block;
+}
+
+.serv-innerr {
+    padding-bottom: 50px;
+}
+
+
+
+@media only screen and (max-width: 1366px) {
+    .serv-innerr h4 {
+        font-size: 18px;
+    }
+
+    .serv-innerr ul li a {
+
+        font-size: 15px;
+
+
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    /* .serverr-main .main-head {
+        text-align: center;
+    } */
+
+    .all-serv {
+        background: #1e1e1e !important;
+        min-height: 400px !important;
+    }
+    .serverr-main {
+        padding: 40px 0px 0px;
+    }
+}
+
+/* sitemap page ends here */
+
+
+.mascot-banner .buissness-card-banner img,
+.three-d-logo-design .buissness-card-banner img 
+{
+    display: block !important;
+    visibility: visible !important;
+}

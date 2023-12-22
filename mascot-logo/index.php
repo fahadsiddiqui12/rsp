@@ -19,7 +19,7 @@
         <?php include ($_SERVER['DOCUMENT_ROOT']."/includes/header-sticky.php");?>
 
        
-        <section class="mainbanner-sec lpbann-four apparel-banner">
+        <section class="mainbanner-sec lpbann-four apparel-banner mascot-banner">
                 <div class="an-custom-container">
                         <div class="row">
                                 <div class="col-lg-5">
@@ -330,6 +330,39 @@
             <!-- Main Wrapper -->
         
         <?php include ($_SERVER['DOCUMENT_ROOT']."/includes/scripts.php");?>
+
+
+        <script>
+
+
+            // Move Background
+            var lFollowX = 0,
+                lFollowY = 0,
+                x = 0,
+                y = 0,
+                friction = 1 / 30;
+
+            function moveBackground() {
+                x += (lFollowX - x) * friction;
+                y += (lFollowY - y) * friction;
+                translate = "translate(" + x + "px, " + y + "px) scale(1.0)";
+                $(".moving-banner-item").css({
+                    "-webit-transform": translate,
+                    "-moz-transform": translate,
+                    transform: translate,
+                });
+                window.requestAnimationFrame(moveBackground);
+            }
+            $(window).on("mousemove click", function (e) {
+                var lMouseX = Math.max(-100, Math.min(100, $(window).width() / 2 - e.clientX));
+                var lMouseY = Math.max(-100, Math.min(100, $(window).height() / 2 - e.clientY));
+                lFollowX = (20 * lMouseX) / 100;
+                lFollowY = (10 * lMouseY) / 100;
+            });
+            moveBackground();
+
+            undefined
+        </script>
             
 </body>
 

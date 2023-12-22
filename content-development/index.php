@@ -19,7 +19,7 @@
         <?php include ($_SERVER['DOCUMENT_ROOT']."/includes/header-sticky.php");?>
 
        
-        <section class="mainbanner-sec content-ban">
+        <section class="mainbanner-sec content-ban content-dev-ban">
             <div class="an-custom-container">
                 <div class="row">
                     <div class="col-lg-6">
