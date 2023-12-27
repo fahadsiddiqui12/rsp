@@ -2,13 +2,13 @@
                             <div class="container">
                         <div class="row">
                         <div class="col-lg-6 text-left">
-                        <p class="mb-0">© 2023 Logomentary | All rights reserved.</p>
+                        <p class="mb-0">© <?php echo date("Y"); ?> Logomentary | All rights reserved.</p>
                         </div>
                         <div class="col-lg-6">
                         <ul>
-                        <li><a href="terms-and-conditions.html">Terms & Conditions</a></li>
-                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                        <li><a href="sitemap.html">Sitemap</a></li>
+                        <li><a href="/terms-and-conditions/">Terms & Conditions</a></li>
+                        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a href="/sitemap/">Sitemap</a></li>
                         
                         </ul>
                         </div>

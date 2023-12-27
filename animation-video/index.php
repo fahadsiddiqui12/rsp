@@ -63,7 +63,7 @@
 		</section>
 
         
-        <section class="portfolio-sec">
+        <section class="portfolio-sec animation-video">
 		    <div class="w-100 pt-100 pb-0 position-relative">
 		        <div class="main-head text-center reverse">
 		            <h2>Portfolio</h2>

@@ -75,7 +75,7 @@
 	                            <li><a href="<?php echo $siteurl; ?>website-design" class="serv-main">Website Design</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>website-ecommerce" class="serv-main">Ecommerce Website</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>website-basic-business" class="serv-main">Basic Business Website</a></li>
-	                            <li><a href="<?php echo $siteurl; ?>multi-vendor-website" class="serv-main">Multi Vendor Website</a></li>
+	                            <li><a href="<?php echo $siteurl; ?>/website-multi-vendor" class="serv-main">Multi Vendor Website</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>website-landing-pages" class="serv-main">Landing Pages</a></li>
 	                        </ul>
 	                    </div>
@@ -161,7 +161,7 @@
 	                        <h4><a href="<?php echo $siteurl; ?>video-animation">Video Animation</a></h4>
 	                        <ul class="list-unstyled">
 
-	                            <li><a href="<?php echo $siteurl; ?>video-animation" class="serv-main">Video Animation</a></li>
+	                            <li><a href="<?php echo $siteurl; ?>animation-video/" class="serv-main">Video Animation</a></li>
 	             
 
 
@@ -204,7 +204,7 @@
 	                        <ul class="list-unstyled">
 
 	                            <li><a href="<?php echo $siteurl; ?>medical-spa-logo-design" class="serv-main">Medical Spa Logo Design</a></li>
-	                            <li><a href="<?php echo $siteurl; ?>law-firm-logo-design" class="serv-main">Law Firm Logo Design</a></li>
+	                            <!-- <li><a href="<?php echo $siteurl; ?>law-firm-logo-design" class="serv-main">Law Firm Logo Design</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>photography-logo-design" class="serv-main">Photography Logo Design</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>dental-logo-design" class="serv-main">Dental Logo Design</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>real-estate-logo-design" class="serv-main">Real Estate & Construction Logo Design</a></li>
@@ -222,7 +222,7 @@
 	                            <li><a href="<?php echo $siteurl; ?>automotive-engineering-logo-design" class="serv-main">Automotive & Engineering</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>infrastructure-landscaping-logo-design" class="serv-main">Infrastructure & Landscaping</a></li>
 	                            <li><a href="<?php echo $siteurl; ?>animal-pet-logo-design" class="serv-main">Animals & Pets</a></li>
-	                            <li><a href="<?php echo $siteurl; ?>entertainment-arts-logo-design" class="serv-main">Entertainment & Arts</a></li>
+	                            <li><a href="<?php echo $siteurl; ?>entertainment-arts-logo-design" class="serv-main">Entertainment & Arts</a></li> -->
 	                          
 	                        </ul>
 	                    </div>
@@ -233,7 +233,7 @@
 	                        <h4><a href="javascript:;">Regional Pages</a></h4>
 	                        <ul class="list-unstyled">
 	                              <li><a href="<?php echo $siteurl; ?>houston-web-design" class="serv-main">Houston Website Design</a></li>
-	                              <li><a href="<?php echo $siteurl; ?>orlando-web-design" class="serv-main">Orlando Website Design</a></li>
+	                              <!-- <li><a href="<?php echo $siteurl; ?>orlando-web-design" class="serv-main">Orlando Website Design</a></li>
 	                              <li><a href="<?php echo $siteurl; ?>phoenix-web-design" class="serv-main">Phoenix Website Design</a></li>
 	                              <li><a href="<?php echo $siteurl; ?>denver-web-design" class="serv-main">Denver Website Design</a></li>
 	                              <li><a href="<?php echo $siteurl; ?>salt-lake-city-web-design" class="serv-main">Salt Lake City Website Design</a></li>
@@ -241,7 +241,7 @@
 	                              <li><a href="<?php echo $siteurl; ?>miami-web-design" class="serv-main">Miami  Website Design</a></li>
 	                              <li><a href="<?php echo $siteurl; ?>nashville-web-design" class="serv-main">Nashville  Website Design</a></li>
 	                              <li><a href="<?php echo $siteurl; ?>oregon-web-design" class="serv-main">Oregon  Website Design</a></li>
-	                              <li><a href="<?php echo $siteurl; ?>philadelphia-web-design" class="serv-main">Philadelphia  Website Design</a></li>
+	                              <li><a href="<?php echo $siteurl; ?>philadelphia-web-design" class="serv-main">Philadelphia  Website Design</a></li> -->
 	                              
 	                          
 	                          
